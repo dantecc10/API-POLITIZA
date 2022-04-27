@@ -1,0 +1,137 @@
+[
+    {
+        "número": 1, 
+       "apellidoPaterno": "Castañeda", 
+       "apellidoMaterno": "Navarrete", 
+       "nombre": "Marcelino", 
+       "entidad": "Ciudad de México", 
+       "distrito_cricunscripcion": "Dtto. 18",
+       "partido": "prd" 
+       },
+       {
+        "número": 2, 
+       "apellidoPaterno": "Chávez", 
+       "apellidoMaterno": "Flores", 
+       "nombre": "María Macarena", 
+       "entidad": "Michoacán", 
+       "distrito_cricunscripcion": "Dtto. 11",
+       "partido": "prd" 
+       },
+       {
+        "número": 3, 
+       "apellidoPaterno": "Chávez", 
+       "apellidoMaterno": "Ruiz", 
+       "nombre": "Héctor", 
+       "entidad": "Hidalgo", 
+       "distrito_cricunscripcion": "Circ. 5",
+       "partido": "prd" 
+       },
+       {
+        "número": 4, 
+       "apellidoPaterno": "Díaz", 
+       "apellidoMaterno": "Acevedo", 
+       "nombre": "Edna Gisel", 
+       "entidad": "México", 
+       "distrito_cricunscripcion": "Circ. 5",
+       "partido": "prd" 
+       },
+       {
+        "número": 5, 
+       "apellidoPaterno": "Espinosa", 
+       "apellidoMaterno": "Cházaro", 
+       "nombre": "Luis Ángel Xariel", 
+       "entidad": "Ciudad de México", 
+       "distrito_cricunscripcion": "Circ. 4",
+       "partido": "prd" 
+       },
+       {
+        "número": 6, 
+       "apellidoPaterno": "Espinosa", 
+       "apellidoMaterno": "Morales", 
+       "nombre": "Olga Luz", 
+       "entidad": "Chiapas", 
+       "distrito_cricunscripcion": "Circ. 3",
+       "partido": "prd" 
+       },
+       {
+        "número": 7, 
+       "apellidoPaterno": "Fernández", 
+       "apellidoMaterno": "Piña", 
+       "nombre": "Laura Lynn (Licencia)", 
+       "entidad": "Quintana Roo", 
+       "distrito_cricunscripcion": "Dtto. 4",
+       "partido": "prd" 
+       },
+       {
+        "número": 8, 
+       "apellidoPaterno": "Huacus", 
+       "apellidoMaterno": "Esquivel", 
+       "nombre": "Francisco Javier", 
+       "entidad": "Michoacán", 
+       "distrito_cricunscripcion": "Dtto. 12",
+       "partido": "prd" 
+       },
+       {
+        "número": 9, 
+       "apellidoPaterno": "Pérez", 
+       "apellidoMaterno": "Valdez", 
+       "nombre": "Elizabeth", 
+       "entidad": "Ciudad de México", 
+       "distrito_cricunscripcion": "Circ. 4",
+       "partido": "prd" 
+       },
+       {
+        "número": 10, 
+       "apellidoPaterno": "Prieto", 
+       "apellidoMaterno": "Gómez", 
+       "nombre": "Mauricio", 
+       "entidad": "Michoacán", 
+       "distrito_cricunscripcion": "Dtto. 2",
+       "partido": "prd" 
+       },
+       {
+        "número": 11, 
+       "apellidoPaterno": "Rafael", 
+       "apellidoMaterno": "Dircio", 
+       "nombre": "Fabiola", 
+       "entidad": "Guerrero", 
+       "distrito_cricunscripcion": "Dtto. 6",
+       "partido": "prd" 
+       },
+       {
+        "número": 12, 
+       "apellidoPaterno": "Rodríguez", 
+       "apellidoMaterno": "Sarabia", 
+       "nombre": "Leslie Estefanía", 
+       "entidad": "Baja California", 
+       "distrito_cricunscripcion": "Circ. 1",
+       "partido": "prd" 
+       },
+       {
+        "número": 13, 
+       "apellidoPaterno": "Sodi", 
+       "apellidoMaterno": "Miranda", 
+       "nombre": "Ana Cecilia Luisa Gabriela Fernanda", 
+       "entidad": "Ciudad de México", 
+       "distrito_cricunscripcion": "Dtto. 12",
+       "partido": "prd" 
+       },
+       {
+        "número": 14, 
+       "apellidoPaterno": "Torres", 
+       "apellidoMaterno": "Rosales", 
+       "nombre": "Miguel Ángel", 
+       "entidad": "Zacatecas", 
+       "distrito_cricunscripcion": "Circ. 2",
+       "partido": "prd" 
+       },
+       {
+        "número": 15, 
+       "apellidoPaterno": "Velázquez", 
+       "apellidoMaterno": "Flores", 
+       "nombre": "Jesús Alberto", 
+       "entidad": "Veracruz", 
+       "distrito_cricunscripcion": "Circ. 3",
+       "partido": "prd" 
+       }
+]

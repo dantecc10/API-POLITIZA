@@ -1,0 +1,362 @@
+[
+    {
+        "número": 1, 
+       "apellidoPaterno": "Aguilar", 
+       "apellidoMaterno": "Piña", 
+       "nombre": "Kevin Angelo", 
+       "entidad": "San Luis Potosí", 
+       "distrito_cricunscripcion": "Dtto. 3",
+       "partido": "pvem" 
+       },
+       {
+        "número": 2, 
+       "apellidoPaterno": "Alcalá", 
+       "apellidoMaterno": "Izguerra", 
+       "nombre": "María José", 
+       "entidad": "Querétaro", 
+       "distrito_cricunscripcion": "Circ. 2",
+       "partido": "pvem" 
+       },
+       {
+        "número": 3, 
+       "apellidoPaterno": "Bugarin", 
+       "apellidoMaterno": "Jasmine", 
+       "nombre": "María", 
+       "entidad": "Nayarit", 
+       "distrito_cricunscripcion": "Dtto. 2",
+       "partido": "pvem" 
+       },
+       {
+        "número": 4, 
+       "apellidoPaterno": "Carrillo", 
+       "apellidoMaterno": "Soberanis", 
+       "nombre": "Juan Luis", 
+       "entidad": "Quintana Roo", 
+       "distrito_cricunscripcion": "Dtto. 1",
+       "partido": "pvem" 
+       },
+       {
+        "número": 5, 
+       "apellidoPaterno": "Castrejón", 
+       "apellidoMaterno": "Trujillo", 
+       "nombre": "Karen", 
+       "entidad": "México", 
+       "distrito_cricunscripcion": "Circ. 5",
+       "partido": "pvem" 
+       },
+       {
+        "número": 6, 
+       "apellidoPaterno": "Corona", 
+       "apellidoMaterno": "Nakamura", 
+       "nombre": "María del Rocío", 
+       "entidad": "Jalisco", 
+       "distrito_cricunscripcion": "Dtto. 9",
+       "partido": "pvem" 
+       },
+       {
+        "número": 7, 
+       "apellidoPaterno": "Cruz", 
+       "apellidoMaterno": "Peláez", 
+       "nombre": "Fátima Almendra", 
+       "entidad": "Puebla", 
+       "distrito_cricunscripcion": "Dtto. 2",
+       "partido": "pvem" 
+       },
+       {
+        "número": 8, 
+       "apellidoPaterno": "Delagadillo", 
+       "apellidoMaterno": "González", 
+       "nombre": "Claudia", 
+       "entidad": "Jalisco", 
+       "distrito_cricunscripcion": "Dtto. 11",
+       "partido": "pvem" 
+       },
+       {
+        "número": 9, 
+       "apellidoPaterno": "Domínguez", 
+       "apellidoMaterno": "Zopiyactle", 
+       "nombre": "Itzel Aleli", 
+       "entidad": "Veracruz", 
+       "distrito_cricunscripcion": "Dtto. 18",
+       "partido": "pvem" 
+       },
+       {
+        "número": 10, 
+       "apellidoPaterno": "Estefan", 
+       "apellidoMaterno": "Gillessen", 
+       "nombre": "José Antonio", 
+       "entidad": "Oaxaca", 
+       "distrito_cricunscripcion": "Dtto. 7",
+       "partido": "pvem" 
+       },
+       {
+        "número": 11, 
+       "apellidoPaterno": "Fernández", 
+       "apellidoMaterno": "Cruz", 
+       "nombre": "Nayeli Arlen", 
+       "entidad": "Ciudad de México", 
+       "distrito_cricunscripcion": "Circ. 4",
+       "partido": "pvem" 
+       },
+       {
+        "número": 12, 
+       "apellidoPaterno": "Gallardo", 
+       "apellidoMaterno": "García", 
+       "nombre": "Fausto", 
+       "entidad": "Baja California", 
+       "distrito_cricunscripcion": "Dtto. 8",
+       "partido": "pvem" 
+       },
+       {
+        "número": 13, 
+       "apellidoPaterno": "Gloria", 
+       "apellidoMaterno": "Requena", 
+       "nombre": "Tomás", 
+       "entidad": "Tamaulipas", 
+       "distrito_cricunscripcion": "Dtto. 3",
+       "partido": "pvem" 
+       },
+       {
+        "número": 14, 
+       "apellidoPaterno": "Gómez", 
+       "apellidoMaterno": "Betancourt", 
+       "nombre": "Armando Antonio", 
+       "entidad": "Veracruz", 
+       "distrito_cricunscripcion": "Dtto. 1",
+       "partido": "pvem" 
+       },
+       {
+        "número": 15, 
+       "apellidoPaterno": "González", 
+       "apellidoMaterno": "Cruz", 
+       "nombre": "Luis Alberto", 
+       "entidad": "Baja California", 
+       "distrito_cricunscripcion": "Circ. 1",
+       "partido": "pvem" 
+       },
+       {
+        "número": 16, 
+       "apellidoPaterno": "Hernández", 
+       "apellidoMaterno": "Villafuerte", 
+       "nombre": "Gilberto", 
+       "entidad": "San Luis Potosí", 
+       "distrito_cricunscripcion": "Dtto. 6",
+       "partido": "pvem" 
+       },
+       {
+        "número": 17, 
+       "apellidoPaterno": "Huerta", 
+       "apellidoMaterno": "Valdovinos", 
+       "nombre": "Ana Laura", 
+       "entidad": "Tamaulipas", 
+       "distrito_cricunscripcion": "Dtto. 1",
+       "partido": "pvem" 
+       },
+       {
+        "número": 18, 
+       "apellidoPaterno": "López", 
+       "apellidoMaterno": "Casarín", 
+       "nombre": "Javier Joaquín", 
+       "entidad": "Ciudad de México", 
+       "distrito_cricunscripcion": "Circ. 4",
+       "partido": "pvem" 
+       },
+       {
+        "número": 19, 
+       "apellidoPaterno": "Martínez", 
+       "apellidoMaterno": "Bravo", 
+       "nombre": "Luis Alberto", 
+       "entidad": "México", 
+       "distrito_cricunscripcion": "Circ. 5",
+       "partido": "pvem" 
+       },
+       {
+        "número": 20, 
+       "apellidoPaterno": "Melgar", 
+       "apellidoMaterno": "Bravo", 
+       "nombre": "Luis Armando", 
+       "entidad": "Chiapas", 
+       "distrito_cricunscripcion": "Dtto. 13",
+       "partido": "pvem" 
+       },
+       {
+        "número": 21, 
+       "apellidoPaterno": "Mendoza", 
+       "apellidoMaterno": "Díaz", 
+       "nombre": "Sonia", 
+       "entidad": "San Luis Potosí", 
+       "distrito_cricunscripcion": "Circ. 2",
+       "partido": "pvem" 
+       },
+       {
+        "número": 22, 
+       "apellidoPaterno": "Montemayor", 
+       "apellidoMaterno": "Castillo", 
+       "nombre": "Santy", 
+       "entidad": "Quintana Roo", 
+       "distrito_cricunscripcion": "Circ. 3",
+       "partido": "pvem" 
+       },
+       {
+        "número": 23, 
+       "apellidoPaterno": "Montes de Oca", 
+       "apellidoMaterno": "Avendaño", 
+       "nombre": "Juan Pablo", 
+       "entidad": "Chiapas", 
+       "distrito_cricunscripcion": "Dtto. 10",
+       "partido": "pvem" 
+       },
+       {
+        "número": 24, 
+       "apellidoPaterno": "Monzón", 
+       "apellidoMaterno": "García", 
+       "nombre": "Eunice", 
+       "entidad": "Guerrero", 
+       "distrito_cricunscripcion": "Dtto. 8",
+       "partido": "pvem" 
+       },
+       {
+        "número": 25, 
+       "apellidoPaterno": "Natale", 
+       "apellidoMaterno": "Gutiérrez", 
+       "nombre": "Marco Antonio", 
+       "entidad": "Puebla", 
+       "distrito_cricunscripcion": "Dtto. 1",
+       "partido": "pvem" 
+       },
+       {
+        "número": 26, 
+       "apellidoPaterno": "Natale", 
+       "apellidoMaterno": "López", 
+       "nombre": "Juan Carlos", 
+       "entidad": "Veracruz", 
+       "distrito_cricunscripcion": "Circ. 3",
+       "partido": "pvem" 
+       },
+       {
+        "número": 27, 
+       "apellidoPaterno": "Navarrete", 
+       "apellidoMaterno": "Navarro", 
+       "nombre": "Consuelo del Carmen", 
+       "entidad": "Yucatán", 
+       "distrito_cricunscripcion": "Dtto. 5",
+       "partido": "pvem" 
+       },
+       {
+        "número": 28, 
+       "apellidoPaterno": "Navarro", 
+       "apellidoMaterno": "Muñiz", 
+       "nombre": "Juan Manuel", 
+       "entidad": "San Luis Potosí", 
+       "distrito_cricunscripcion": "Dtto. 2",
+       "partido": "pvem" 
+       },
+       {
+        "número": 29, 
+       "apellidoPaterno": "Palacios", 
+       "apellidoMaterno": "Díaz", 
+       "nombre": "Luis Edgardo", 
+       "entidad": "Guerrero", 
+       "distrito_cricunscripcion": "Dtto. 3",
+       "partido": "pvem" 
+       },
+       {
+        "número": 30, 
+       "apellidoPaterno": "Peraza", 
+       "apellidoMaterno": "Ramírez", 
+       "nombre": "Mario Xavier", 
+       "entidad": "Yucatán", 
+       "distrito_cricunscripcion": "Dtto. 2",
+       "partido": "pvem" 
+       },
+       {
+        "número": 31, 
+       "apellidoPaterno": "Peña", 
+       "apellidoMaterno": "Martínez", 
+       "nombre": "Angélica", 
+       "entidad": "Veracruz", 
+       "distrito_cricunscripcion": "Dtto. 13",
+       "partido": "pvem" 
+       },
+       {
+        "número": 32, 
+       "apellidoPaterno": "Pinete", 
+       "apellidoMaterno": "Vargas", 
+       "nombre": "María del Carmen", 
+       "entidad": "Veracruz", 
+       "distrito_cricunscripcion": "Dtto. 2",
+       "partido": "pvem" 
+       },
+       {
+        "número": 33, 
+       "apellidoPaterno": "Puente", 
+       "apellidoMaterno": "Salas", 
+       "nombre": "Carlos Alberto", 
+       "entidad": "Zacatecas", 
+       "distrito_cricunscripcion": "Circ. 2",
+       "partido": "pvem" 
+       },
+       {
+        "número": 34, 
+       "apellidoPaterno": "Quijano", 
+       "apellidoMaterno": "Tapia", 
+       "nombre": "Janine Patricia", 
+       "entidad": "Yucatán", 
+       "distrito_cricunscripcion": "Circ. 3",
+       "partido": "pvem" 
+       },
+       {
+        "número": 35, 
+       "apellidoPaterno": "Ramírez", 
+       "apellidoMaterno": "Ramos", 
+       "nombre": "Antonio de Jesús", 
+       "entidad": "Jalisco", 
+       "distrito_cricunscripcion": "Dtto. 17",
+       "partido": "pvem" 
+       },
+       {
+        "número": 36, 
+       "apellidoPaterno": "Rubio", 
+       "apellidoMaterno": "Montejo", 
+       "nombre": "Roberto Antonio", 
+       "entidad": "Chiapas", 
+       "distrito_cricunscripcion": "Dtto. 11",
+       "partido": "pvem" 
+       },
+       {
+        "número": 37, 
+       "apellidoPaterno": "Salomón", 
+       "apellidoMaterno": "Durán", 
+       "nombre": "Ciria Yamile", 
+       "entidad": "Hidalgo", 
+       "distrito_cricunscripcion": "Dtto. 2",
+       "partido": "pvem" 
+       },
+       {
+        "número": 38, 
+       "apellidoPaterno": "Sánchez", 
+       "apellidoMaterno": "Sánchez", 
+       "nombre": "Christian Joaquín", 
+       "entidad": "San Luis Potosí", 
+       "distrito_cricunscripcion": "Dtto. 7",
+       "partido": "pvem" 
+       },
+       {
+        "número": 39, 
+       "apellidoPaterno": "Santiago", 
+       "apellidoMaterno": "Barrientos", 
+       "nombre": "Valeria", 
+       "entidad": "Chiapas", 
+       "distrito_cricunscripcion": "Circ. 3",
+       "partido": "pvem" 
+       },
+       {
+        "número": 40, 
+       "apellidoPaterno": "Segovia", 
+       "apellidoMaterno": "Hernández", 
+       "nombre": "Roberto Alejandro", 
+       "entidad": "San Luis Potosí", 
+       "distrito_cricunscripcion": "Dtto. 1",
+       "partido": "pvem" 
+       }
+]

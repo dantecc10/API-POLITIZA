@@ -1,0 +1,227 @@
+[
+    {
+        "número": 1, 
+       "apellidoPaterno": "Álvarez", 
+       "apellidoMaterno": "Máynez", 
+       "nombre": "Jorge", 
+       "entidad": "Jalisco", 
+       "distrito_cricunscripcion": "Circ. 1",
+       "partido": "mc" 
+       },
+       {
+        "número": 2, 
+       "apellidoPaterno": "Álvarez", 
+       "apellidoMaterno": "Solis", 
+       "nombre": "María Asunción", 
+       "entidad": "Jalisco", 
+       "distrito_cricunscripcion": "Dtto. 12",
+       "partido": "mc" 
+       },
+       {
+        "número": 3, 
+       "apellidoPaterno": "Banquells", 
+       "apellidoMaterno": "Núñez", 
+       "nombre": "María del Rocío", 
+       "entidad": "Ciudad de México", 
+       "distrito_cricunscripcion": "Dtto. 14",
+       "partido": "mc" 
+       },
+       {
+        "número": 4, 
+       "apellidoPaterno": "Barrera", 
+       "apellidoMaterno": "Sepúlveda", 
+       "nombre": "Sergio", 
+       "entidad": "Jalisco", 
+       "distrito_cricunscripcion": "Dtto. 13",
+       "partido": "mc" 
+       },
+       {
+        "número": 5, 
+       "apellidoPaterno": "Basave", 
+       "apellidoMaterno": "Alanís", 
+       "nombre": "Agustín Carlos", 
+       "entidad": "Nuevo León", 
+       "distrito_cricunscripcion": "Circ. 2",
+       "partido": "mc" 
+       },
+       {
+        "número": 6, 
+       "apellidoPaterno": "Caro", 
+       "apellidoMaterno": "Cabrera", 
+       "nombre": "Salvador", 
+       "entidad": "Jalisco", 
+       "distrito_cricunscripcion": "Circ. 1",
+       "partido": "mc" 
+       },
+       {
+        "número": 7, 
+       "apellidoPaterno": "Chávez", 
+       "apellidoMaterno": "Pérez", 
+       "nombre": "María Leticia", 
+       "entidad": "Jalisco", 
+       "distrito_cricunscripcion": "Dtto. 14",
+       "partido": "mc" 
+       },
+       {
+        "número": 8, 
+       "apellidoPaterno": "Chertorivski", 
+       "apellidoMaterno": "Woldenverg", 
+       "nombre": "Salomón", 
+       "entidad": "Ciudad de México", 
+       "distrito_cricunscripcion": "Circ. 4",
+       "partido": "mc" 
+       },
+       {
+        "número": 9, 
+       "apellidoPaterno": "de la Garza", 
+       "apellidoMaterno": "Garza", 
+       "nombre": "Arturo Bonifacio", 
+       "entidad": "Nuevo León", 
+       "distrito_cricunscripcion": "Circ. 2",
+       "partido": "mc" 
+       },
+       {
+        "número": 10, 
+       "apellidoPaterno": "Fernández", 
+       "apellidoMaterno": "Castillo", 
+       "nombre": "Horacio", 
+       "entidad": "Jalisco", 
+       "distrito_cricunscripcion": "Dtto. 10",
+       "partido": "mc" 
+       },
+       {
+        "número": 11, 
+       "apellidoPaterno": "Flores", 
+       "apellidoMaterno": "Gómez", 
+       "nombre": "Mirza", 
+       "entidad": "Jalisco", 
+       "distrito_cricunscripcion": "Circ. 1",
+       "partido": "mc" 
+       },
+       {
+        "número": 12, 
+       "apellidoPaterno": "García", 
+       "apellidoMaterno": "Medina", 
+       "nombre": "Amalia Dolores", 
+       "entidad": "Zacatecas", 
+       "distrito_cricunscripcion": "Circ. 2",
+       "partido": "mc" 
+       },
+       {
+        "número": 13, 
+       "apellidoPaterno": "Garza", 
+       "apellidoMaterno": "Marín", 
+       "nombre": "José Mauro", 
+       "entidad": "Jalisco", 
+       "distrito_cricunscripcion": "Dtto. 8",
+       "partido": "mc" 
+       },
+       {
+        "número": 14, 
+       "apellidoPaterno": "Gaudiano", 
+       "apellidoMaterno": "Rovirosa", 
+       "nombre": "Gerardo", 
+       "entidad": "Tabasco", 
+       "distrito_cricunscripcion": "Circ. 3",
+       "partido": "mc" 
+       },
+       {
+        "número": 15, 
+       "apellidoPaterno": "Herrera", 
+       "apellidoMaterno": "Vega", 
+       "nombre": "Manuel Jesús", 
+       "entidad": "Jalisco", 
+       "distrito_cricunscripcion": "Dtto. 6",
+       "partido": "mc" 
+       },
+       {
+        "número": 16, 
+       "apellidoPaterno": "Limón", 
+       "apellidoMaterno": "García", 
+       "nombre": "María Elena", 
+       "entidad": "Jalisco", 
+       "distrito_cricunscripcion": "Circ. 1",
+       "partido": "mc" 
+       },
+       {
+        "número": 17, 
+       "apellidoPaterno": "Martínez", 
+       "apellidoMaterno": "Cosío", 
+       "nombre": "Elvia Yolanda", 
+       "entidad": "Jalisco", 
+       "distrito_cricunscripcion": "Circ. 1",
+       "partido": "mc" 
+       },
+       {
+        "número": 18, 
+       "apellidoPaterno": "Mejía", 
+       "apellidoMaterno": "Ibáñez", 
+       "nombre": "Julieta", 
+       "entidad": "Nayarit", 
+       "distrito_cricunscripcion": "Circ. 1",
+       "partido": "mc" 
+       },
+       {
+        "número": 19, 
+       "apellidoPaterno": "Ochoa", 
+       "apellidoMaterno": "Mejía", 
+       "nombre": "María Teresa Rosaura", 
+       "entidad": "México", 
+       "distrito_cricunscripcion": "Circ. 5",
+       "partido": "mc" 
+       },
+       {
+        "número": 20, 
+       "apellidoPaterno": "Ortega", 
+       "apellidoMaterno": "de la Cruz", 
+       "nombre": "Jessica", 
+       "entidad": "Morelos", 
+       "distrito_cricunscripcion": "Circ. 4",
+       "partido": "mc" 
+       },
+       {
+        "número": 21, 
+       "apellidoPaterno": "Ortega", 
+       "apellidoMaterno": "Pacheco", 
+       "nombre": "Ivonne Aracelly", 
+       "entidad": "Yucatán", 
+       "distrito_cricunscripcion": "Circ. 3",
+       "partido": "mc" 
+       },
+       {
+        "número": 22, 
+       "apellidoPaterno": "Pintos", 
+       "apellidoMaterno": "Caballero", 
+       "nombre": "Andrés", 
+       "entidad": "Nuevo León", 
+       "distrito_cricunscripcion": "Dtto. 7",
+       "partido": "mc" 
+       },
+       {
+        "número": 23, 
+       "apellidoPaterno": "Rodríguez", 
+       "apellidoMaterno": "Carrillo", 
+       "nombre": "Mario Alberto", 
+       "entidad": "Jalisco", 
+       "distrito_cricunscripcion": "Circ. 1",
+       "partido": "mc" 
+       },
+       {
+        "número": 24, 
+       "apellidoPaterno": "Rodríguez", 
+       "apellidoMaterno": "González", 
+       "nombre": "Taygete Irisay", 
+       "entidad": "Jalisco", 
+       "distrito_cricunscripcion": "Dtto. 4",
+       "partido": "mc" 
+       },
+       {
+        "número": 25, 
+       "apellidoPaterno": "Samperio", 
+       "apellidoMaterno": "Chaparro", 
+       "nombre": "Rodrigo Herminio", 
+       "entidad": "México", 
+       "distrito_cricunscripcion": "Circ. 5",
+       "partido": "mc" 
+       }
+]

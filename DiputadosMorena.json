@@ -1,0 +1,1829 @@
+[
+    {
+        "número": 1, 
+       "apellidoPaterno": "Adams", 
+       "apellidoMaterno": "Pereyra", 
+       "nombre": "Olga Zulema", 
+       "entidad": "Baja California", 
+       "distrito_cricunscripcion": "Circ. 1",
+       "partido": "morena" 
+       },
+       {
+        "número": 2, 
+       "apellidoPaterno": "Alavez", 
+       "apellidoMaterno": "Ruiz", 
+       "nombre": "Aleida", 
+       "entidad": "Ciudad de México", 
+       "distrito_cricunscripcion": "Dtto. 19",
+       "partido": "morena" 
+       },
+       {
+        "número": 3, 
+       "apellidoPaterno": "Alfaro", 
+       "apellidoMaterno": "Morales", 
+       "nombre": "María Isabel", 
+       "entidad": "Estado de Hidalgo", 
+       "distrito_cricunscripcion": "Dtto. 4",
+       "partido": "morena" 
+       },
+       {
+        "número": 4, 
+       "apellidoPaterno": "Almazán", 
+       "apellidoMaterno": "Burgos", 
+       "nombre": "Karla Yuritzi", 
+       "entidad": "México", 
+       "distrito_cricunscripcion": "Dtto. 38",
+       "partido": "morena" 
+       },
+       {
+        "número": 5, 
+       "apellidoPaterno": "Almazán", 
+       "apellidoMaterno": "Muñoz", 
+       "nombre": "Odette Nayeri", 
+       "entidad": "Puebla", 
+       "distrito_cricunscripcion": "Dtto. 8",
+       "partido": "morena" 
+       },
+       {
+        "número": 6, 
+       "apellidoPaterno": "Alvarado", 
+       "apellidoMaterno": "Murguía", 
+       "nombre": "Rosa María", 
+       "entidad": "Veracruz", 
+       "distrito_cricunscripcion": "Circ. 3",
+       "partido": "morena" 
+       },
+       {
+        "número": 7, 
+       "apellidoPaterno": "Ambrocio", 
+       "apellidoMaterno": "Gachuz", 
+       "nombre": "José Guadalupe", 
+       "entidad": "Morelos", 
+       "distrito_cricunscripcion": "Dtto. 5",
+       "partido": "morena" 
+       },
+       {
+        "número": 8, 
+       "apellidoPaterno": "Andazola", 
+       "apellidoMaterno": "Gómez", 
+       "nombre": "Socorro Irma", 
+       "entidad": "Baja California", 
+       "distrito_cricunscripcion": "Dtto. 4",
+       "partido": "morena" 
+       },
+       {
+        "número": 9, 
+       "apellidoPaterno": "Antonio", 
+       "apellidoMaterno": "Altamirano", 
+       "nombre": "Carol", 
+       "entidad": "Oaxaca", 
+       "distrito_cricunscripcion": "Dtto. 5",
+       "partido": "morena" 
+       },
+       {
+        "número": 10, 
+       "apellidoPaterno": "Arellano", 
+       "apellidoMaterno": "Reyes", 
+       "nombre": "Martha Nabetse", 
+       "entidad": "Sinaloa", 
+       "distrito_cricunscripcion": "Circ. 1",
+       "partido": "morena" 
+       },
+       {
+        "número": 11, 
+       "apellidoPaterno": "Armendáriz", 
+       "apellidoMaterno": "Guerra", 
+       "nombre": "Carmen Patricia", 
+       "entidad": "Chiapas", 
+       "distrito_cricunscripcion": "Circ. 3",
+       "partido": "morena" 
+       },
+       {
+        "número": 12, 
+       "apellidoPaterno": "Arreola", 
+       "apellidoMaterno": "Martínez", 
+       "nombre": "Martha Alicia", 
+       "entidad": "Durango", 
+       "distrito_cricunscripcion": "Dtto. 3",
+       "partido": "morena" 
+       },
+       {
+        "número": 13, 
+       "apellidoPaterno": "Ascencio", 
+       "apellidoMaterno": "Ortega", 
+       "nombre": "Reyna Celeste", 
+       "entidad": "Michoacán", 
+       "distrito_cricunscripcion": "Circ. 5",
+       "partido": "morena" 
+       },
+       {
+        "número": 14, 
+       "apellidoPaterno": "Atanacio", 
+       "apellidoMaterno": "Luna", 
+       "nombre": "Raymundo", 
+       "entidad": "Puebla", 
+       "distrito_cricunscripcion": "Dtto. 7",
+       "partido": "morena" 
+       },
+       {
+        "número": 15, 
+       "apellidoPaterno": "Ávila", 
+       "apellidoMaterno": "Flores", 
+       "nombre": "Claudia Selene", 
+       "entidad": "Ciudad de México", 
+       "distrito_cricunscripcion": "Circ. 4",
+       "partido": "morena" 
+       },
+       {
+        "número": 16, 
+       "apellidoPaterno": "Ayala", 
+       "apellidoMaterno": "Leyva", 
+       "nombre": "Ana Elizabeth", 
+       "entidad": "Sinaloa", 
+       "distrito_cricunscripcion": "Dtto. 2",
+       "partido": "morena" 
+       },
+       {
+        "número": 17, 
+       "apellidoPaterno": "Aysa", 
+       "apellidoMaterno": "Damas", 
+       "nombre": "Carlos Miguel", 
+       "entidad": "Campeche", 
+       "distrito_cricunscripcion": "Circ. 3",
+       "partido": "morena" 
+       },
+       {
+        "número": 18, 
+       "apellidoPaterno": "Baldenebro", 
+       "apellidoMaterno": "Arredondo", 
+       "nombre": "Manuel de Jesús", 
+       "entidad": "Sonora", 
+       "distrito_cricunscripcion": "Dtto. 1",
+       "partido": "morena" 
+       },
+       {
+        "número": 19, 
+       "apellidoPaterno": "Barajas", 
+       "apellidoMaterno": "García", 
+       "nombre": "Martha", 
+       "entidad": "San Luis Potosí", 
+       "distrito_cricunscripcion": "Circ. 2",
+       "partido": "morena" 
+       },
+       {
+        "número": 20, 
+       "apellidoPaterno": "Barboza", 
+       "apellidoMaterno": "Llamas", 
+       "nombre": "Maximiano", 
+       "entidad": "Jalisco", 
+       "distrito_cricunscripcion": "Circ. 1",
+       "partido": "morena" 
+       },
+       {
+        "número": 21, 
+       "apellidoPaterno": "Barrera", 
+       "apellidoMaterno": "Puc", 
+       "nombre": "Rocío Natalí", 
+       "entidad": "Yucatán", 
+       "distrito_cricunscripcion": "Circ. 3",
+       "partido": "morena" 
+       },
+       {
+        "número": 22, 
+       "apellidoPaterno": "Barrera", 
+       "apellidoMaterno": "Toledo", 
+       "nombre": "Jorge Alberto", 
+       "entidad": "Morelos", 
+       "distrito_cricunscripcion": "Dtto. 1",
+       "partido": "morena" 
+       },
+       {
+        "número": 23, 
+       "apellidoPaterno": "Batun", 
+       "apellidoMaterno": "Chulim", 
+       "nombre": "Willbert Alberto", 
+       "entidad": "Quintana Roo", 
+       "distrito_cricunscripcion": "Dtto. 3",
+       "partido": "morena" 
+       },
+       {
+        "número": 24, 
+       "apellidoPaterno": "Bautista", 
+       "apellidoMaterno": "Bravo", 
+       "nombre": "Juan Ángel", 
+       "entidad": "México", 
+       "distrito_cricunscripcion": "Dtto. 31",
+       "partido": "morena" 
+       },
+       {
+        "número": 25, 
+       "apellidoPaterno": "Bautista", 
+       "apellidoMaterno": "Hernández", 
+       "nombre": "Esteban", 
+       "entidad": "Veracruz", 
+       "distrito_cricunscripcion": "Dtto. 20",
+       "partido": "morena" 
+       },
+       {
+        "número": 26, 
+       "apellidoPaterno": "Bautista", 
+       "apellidoMaterno": "Peláez", 
+       "nombre": "María del Carmen", 
+       "entidad": "Oaxaca", 
+       "distrito_cricunscripcion": "Dtto. 9",
+       "partido": "morena" 
+       },
+       {
+        "número": 27, 
+       "apellidoPaterno": "Bertín", 
+       "apellidoMaterno": "Sandoval", 
+       "nombre": "Juan Isaías", 
+       "entidad": "Baja California", 
+       "distrito_cricunscripcion": "Dtto. 7",
+       "partido": "morena" 
+       },
+       {
+        "número": 28, 
+       "apellidoPaterno": "Blancas", 
+       "apellidoMaterno": "Mercado", 
+       "nombre": "Bruno", 
+       "entidad": "Jalisco", 
+       "distrito_cricunscripcion": "Dtto. 5",
+       "partido": "morena" 
+       },
+       {
+        "número": 29, 
+       "apellidoPaterno": "Bonilla", 
+       "apellidoMaterno": "Herrera", 
+       "nombre": "Raquel", 
+       "entidad": "Veracruz", 
+       "distrito_cricunscripcion": "Dtto. 5",
+       "partido": "morena" 
+       },
+       {
+        "número": 30, 
+       "apellidoPaterno": "Borrego", 
+       "apellidoMaterno": "Adame", 
+       "nombre": "Francisco Javier", 
+       "entidad": "Coahuila", 
+       "distrito_cricunscripcion": "Dtto. 2",
+       "partido": "morena" 
+       },
+       {
+        "número": 31, 
+       "apellidoPaterno": "Briano", 
+       "apellidoMaterno": "Borunda", 
+       "nombre": "Jesús Roberto", 
+       "entidad": "Chihuahua", 
+       "distrito_cricunscripcion": "Circ. 1",
+       "partido": "morena" 
+       },
+       {
+        "número": 32, 
+       "apellidoPaterno": "Brito", 
+       "apellidoMaterno": "Mazariegos", 
+       "nombre": "Ismael", 
+       "entidad": "Chiapas", 
+       "distrito_cricunscripcion": "Dtto. 8",
+       "partido": "morena" 
+       },
+       {
+        "número": 33, 
+       "apellidoPaterno": "Bustamante", 
+       "apellidoMaterno": "Castellanos", 
+       "nombre": "Adriana", 
+       "entidad": "Chiapas", 
+       "distrito_cricunscripcion": "Dtto. 9",
+       "partido": "morena" 
+       },
+       {
+        "número": 34, 
+       "apellidoPaterno": "Cabada", 
+       "apellidoMaterno": "Alvidrez", 
+       "nombre": "Hector Armando", 
+       "entidad": "Chihuahua", 
+       "distrito_cricunscripcion": "Circ. 1",
+       "partido": "morena" 
+       },
+       {
+        "número": 35, 
+       "apellidoPaterno": "Camacho", 
+       "apellidoMaterno": "Reynoso", 
+       "nombre": "Martha Azucena", 
+       "entidad": "México", 
+       "distrito_cricunscripcion": "Dtto. 23",
+       "partido": "morena" 
+       },
+       {
+        "número": 36, 
+       "apellidoPaterno": "Candelario", 
+       "apellidoMaterno": "Figueroa", 
+       "nombre": "Luz Adriana", 
+       "entidad": "Jalisco", 
+       "distrito_cricunscripcion": "Dtto. 19",
+       "partido": "morena" 
+       },
+       {
+        "número": 37, 
+       "apellidoPaterno": "Cano", 
+       "apellidoMaterno": "González", 
+       "nombre": "Susana", 
+       "entidad": "México", 
+       "distrito_cricunscripcion": "Circ. 5",
+       "partido": "morena" 
+       },
+       {
+        "número": 38, 
+       "apellidoPaterno": "Cantón", 
+       "apellidoMaterno": "Zetina", 
+       "nombre": "Óscar", 
+       "entidad": "Tabasco", 
+       "distrito_cricunscripcion": "Circ. 3",
+       "partido": "morena" 
+       },
+       {
+        "número": 39, 
+       "apellidoPaterno": "Cantú", 
+       "apellidoMaterno": "González", 
+       "nombre": "Mauricio", 
+       "entidad": "Nuevo León", 
+       "distrito_cricunscripcion": "Circ. 2",
+       "partido": "morena" 
+       },
+       {
+        "número": 40, 
+       "apellidoPaterno": "Carrasco", 
+       "apellidoMaterno": "Godínez", 
+       "nombre": "Nelly Minerva", 
+       "entidad": "México", 
+       "distrito_cricunscripcion": "Dtto. 4",
+       "partido": "morena" 
+       },
+       {
+        "número": 41, 
+       "apellidoPaterno": "Carrazco", 
+       "apellidoMaterno": "Macías", 
+       "nombre": "Olegaria", 
+       "entidad": "Sinaloa", 
+       "distrito_cricunscripcion": "Dtto. 6",
+       "partido": "morena" 
+       },
+       {
+        "número": 42, 
+       "apellidoPaterno": "Carrillo", 
+       "apellidoMaterno": "Cubillas", 
+       "nombre": "Mario Miguel", 
+       "entidad": "Puebla", 
+       "distrito_cricunscripcion": "Dtto. 13",
+       "partido": "morena" 
+       },
+       {
+        "número": 43, 
+       "apellidoPaterno": "Carvajal", 
+       "apellidoMaterno": "Hidalgo", 
+       "nombre": "Alejandro", 
+       "entidad": "Puebla", 
+       "distrito_cricunscripcion": "Dtto. 6",
+       "partido": "morena" 
+       },
+       {
+        "número": 44, 
+       "apellidoPaterno": "Castillo", 
+       "apellidoMaterno": "Secundino", 
+       "nombre": "Celestina", 
+       "entidad": "México", 
+       "distrito_cricunscripcion": "Circ. 5",
+       "partido": "morena" 
+       },
+       {
+        "número": 45, 
+       "apellidoPaterno": "Chapman", 
+       "apellidoMaterno": "Moreno", 
+       "nombre": "Manuel Guillermo", 
+       "entidad": "Sinaloa", 
+       "distrito_cricunscripcion": "Circ. 1",
+       "partido": "morena" 
+       },
+       {
+        "número": 46, 
+       "apellidoPaterno": "Chavez", 
+       "apellidoMaterno": "Rojas", 
+       "nombre": "Olga Leticia", 
+       "entidad": "Nuevo León", 
+       "distrito_cricunscripcion": "Circ. 2",
+       "partido": "morena" 
+       },
+       {
+        "número": 47, 
+       "apellidoPaterno": "Chávez", 
+       "apellidoMaterno": "Treviño", 
+       "nombre": "Andrea", 
+       "entidad": "Chihuahua", 
+       "distrito_cricunscripcion": "Circ. 1",
+       "partido": "morena" 
+       },
+       {
+        "número": 48, 
+       "apellidoPaterno": "Chavira", 
+       "apellidoMaterno": "de la Rosa", 
+       "nombre": "María Guadalupe", 
+       "entidad": "Ciudad de México", 
+       "distrito_cricunscripcion": "Dtto. 9",
+       "partido": "morena" 
+       },
+       {
+        "número": 49, 
+       "apellidoPaterno": "Cisneros", 
+       "apellidoMaterno": "Luján", 
+       "nombre": "Angélica Ivonne", 
+       "entidad": "Veracruz", 
+       "distrito_cricunscripcion": "Circ. 3",
+       "partido": "morena" 
+       },
+       {
+        "número": 50, 
+       "apellidoPaterno": "Collado", 
+       "apellidoMaterno": "Crisolia", 
+       "nombre": "Verónica", 
+       "entidad": "México", 
+       "distrito_cricunscripcion": "Circ. 5",
+       "partido": "morena" 
+       },
+       {
+        "número": 51, 
+       "apellidoPaterno": "Contreras", 
+       "apellidoMaterno": "Castillo", 
+       "nombre": "Armando", 
+       "entidad": "Oaxaca", 
+       "distrito_cricunscripcion": "Circ. 3",
+       "partido": "morena" 
+       },
+       {
+        "número": 52, 
+       "apellidoPaterno": "Contreras", 
+       "apellidoMaterno": "García", 
+       "nombre": "Janicie", 
+       "entidad": "Tabasco", 
+       "distrito_cricunscripcion": "Dtto. 5",
+       "partido": "morena" 
+       },
+       {
+        "número": 53, 
+       "apellidoPaterno": "Contreras", 
+       "apellidoMaterno": "Montes", 
+       "nombre": "Gustavo", 
+       "entidad": "México", 
+       "distrito_cricunscripcion": "Dtto. 8",
+       "partido": "morena" 
+       },
+       {
+        "número": 54, 
+       "apellidoPaterno": "Corona", 
+       "apellidoMaterno": "Arvizu", 
+       "nombre": "Armando", 
+       "entidad": "México", 
+       "distrito_cricunscripcion": "Dtto. 12",
+       "partido": "morena" 
+       },
+       {
+        "número": 55, 
+       "apellidoPaterno": "Coutiño", 
+       "apellidoMaterno": "Gutiérrez", 
+       "nombre": "Leonor", 
+       "entidad": "Chiapas", 
+       "distrito_cricunscripcion": "Circ. 3",
+       "partido": "morena" 
+       },
+       {
+        "número": 56, 
+       "apellidoPaterno": "Cruz", 
+       "apellidoMaterno": "Santos", 
+       "nombre": "Flora Tania", 
+       "entidad": "Veracruz", 
+       "distrito_cricunscripcion": "Dtto. 11",
+       "partido": "morena" 
+       },
+       {
+        "número": 57, 
+       "apellidoPaterno": "De la Cruz", 
+       "apellidoMaterno": "Lima", 
+       "nombre": "José Miguel", 
+       "entidad": "México", 
+       "distrito_cricunscripcion": "Circ. 5",
+       "partido": "morena" 
+       },
+       {
+        "número": 58, 
+       "apellidoPaterno": "Del Castillo", 
+       "apellidoMaterno": "Ibarra", 
+       "nombre": "Erika Vanessa", 
+       "entidad": "Ciudad de México", 
+       "distrito_cricunscripcion": "Dtto. 1",
+       "partido": "morena" 
+       },
+       {
+        "número": 59, 
+       "apellidoPaterno": "Díaz", 
+       "apellidoMaterno": "García ", 
+       "nombre": "Karla Estrella", 
+       "entidad": "Nuevo León", 
+       "distrito_cricunscripcion": "Circ. 2",
+       "partido": "morena" 
+       },
+       {
+        "número": 60, 
+       "apellidoPaterno": "Díaz ", 
+       "apellidoMaterno": "Vilvhis", 
+       "nombre": "Catalina", 
+       "entidad": "México", 
+       "distrito_cricunscripcion": "Circ. 5",
+       "partido": "morena" 
+       },
+       {
+        "número": 61, 
+       "apellidoPaterno": "Domínguez", 
+       "apellidoMaterno": "Escobar", 
+       "nombre": "Ángel", 
+       "entidad": "Oaxaca", 
+       "distrito_cricunscripcion": "Dtto. 1",
+       "partido": "morena" 
+       },
+       {
+        "número": 62, 
+       "apellidoPaterno": "Domínguez", 
+       "apellidoMaterno": "Flores", 
+       "nombre": "Rosalinda", 
+       "entidad": "Oaxaca", 
+       "distrito_cricunscripcion": "Circ. 3",
+       "partido": "morena" 
+       },
+       {
+        "número": 63, 
+       "apellidoPaterno": "Domínguez", 
+       "apellidoMaterno": "Rodríguez", 
+       "nombre": "Roberto Ángel", 
+       "entidad": "México", 
+       "distrito_cricunscripcion": "Dtto. 28",
+       "partido": "morena" 
+       },
+       {
+        "número": 64, 
+       "apellidoPaterno": "Durán", 
+       "apellidoMaterno": "Ruiz", 
+       "nombre": "Félix", 
+       "entidad": "Nayarit", 
+       "distrito_cricunscripcion": "Dtto. 1",
+       "partido": "morena" 
+       },
+       {
+        "número": 65, 
+       "apellidoPaterno": "Elizondo", 
+       "apellidoMaterno": "Guerra", 
+       "nombre": "Olga Juliana", 
+       "entidad": "Tamaulipas", 
+       "distrito_cricunscripcion": "Dtto. 2",
+       "partido": "morena" 
+       },
+       {
+        "número": 66, 
+       "apellidoPaterno": "Elorza", 
+       "apellidoMaterno": "Flores", 
+       "nombre": "José Luis", 
+       "entidad": "Chiapas", 
+       "distrito_cricunscripcion": "Dtto. 12",
+       "partido": "morena" 
+       },
+       {
+        "número": 67, 
+       "apellidoPaterno": "Espinoza", 
+       "apellidoMaterno": "López", 
+       "nombre": "Brenda", 
+       "entidad": "Morelos", 
+       "distrito_cricunscripcion": "Dtto. 4",
+       "partido": "morena" 
+       },
+       {
+        "número": 68, 
+       "apellidoPaterno": "Espinoza", 
+       "apellidoMaterno": "Segura", 
+       "nombre": "María Bertha", 
+       "entidad": "Veracruz", 
+       "distrito_cricunscripcion": "Dtto. 3",
+       "partido": "morena" 
+       },
+       {
+        "número": 69, 
+       "apellidoPaterno": "Esquivel", 
+       "apellidoMaterno": "Nava", 
+       "nombre": "María Magdalena Olivia", 
+       "entidad": "Ciudad de México", 
+       "distrito_cricunscripcion": "Circ. 4",
+       "partido": "morena" 
+       },
+       {
+        "número": 70, 
+       "apellidoPaterno": "Flores", 
+       "apellidoMaterno": "Pacheco", 
+       "nombre": "José Luis", 
+       "entidad": "Campeche", 
+       "distrito_cricunscripcion": "Dtto. 1",
+       "partido": "morena" 
+       },
+       {
+        "número": 71, 
+       "apellidoPaterno": "Flores", 
+       "apellidoMaterno": "Sánchez", 
+       "nombre": "Marco Antonio", 
+       "entidad": "Zacatecas", 
+       "distrito_cricunscripcion": "Circ. 2",
+       "partido": "morena" 
+       },
+       {
+        "número": 72, 
+       "apellidoPaterno": "Galindo", 
+       "apellidoMaterno": "Bustamante", 
+       "nombre": "René", 
+       "entidad": "Durango", 
+       "distrito_cricunscripcion": "Dtto. 2",
+       "partido": "morena" 
+       },
+       {
+        "número": 73, 
+       "apellidoPaterno": "García ", 
+       "apellidoMaterno": "Almaguer", 
+       "nombre": "Hamlet", 
+       "entidad": "Jalisco", 
+       "distrito_cricunscripcion": "Circ. 1",
+       "partido": "morena" 
+       },
+       {
+        "número": 74, 
+       "apellidoPaterno": "Harcía", 
+       "apellidoMaterno": "Anaya", 
+       "nombre": "Lidia", 
+       "entidad": "Hidalgo", 
+       "distrito_cricunscripcion": "Dtto. 6",
+       "partido": "morena" 
+       },
+       {
+        "número": 75, 
+       "apellidoPaterno": "García ", 
+       "apellidoMaterno": "Montiel", 
+       "nombre": "Otoniel", 
+       "entidad": "Hidalgo", 
+       "distrito_cricunscripcion": "Circ. 5",
+       "partido": "morena" 
+       },
+       {
+        "número": 76, 
+       "apellidoPaterno": "García ", 
+       "apellidoMaterno": "Moreno", 
+       "nombre": "María Clemente", 
+       "entidad": "Ciudad de México", 
+       "distrito_cricunscripcion": "Circ. 4",
+       "partido": "morena" 
+       },
+       {
+        "número": 77, 
+       "apellidoPaterno": "García ", 
+       "apellidoMaterno": "Sandoval", 
+       "nombre": "Zeus", 
+       "entidad": "Oaxaca", 
+       "distrito_cricunscripcion": "Circ. 3",
+       "partido": "morena" 
+       },
+       {
+        "número": 78, 
+       "apellidoPaterno": "García ", 
+       "apellidoMaterno": "Segura", 
+       "nombre": "Marisol", 
+       "entidad": "Ciudad de México", 
+       "distrito_cricunscripcion": "Circ. 4",
+       "partido": "morena" 
+       },
+       {
+        "número": 79, 
+       "apellidoPaterno": "Girón", 
+       "apellidoMaterno": "Hernández", 
+       "nombre": "Olimpia Tamara", 
+       "entidad": "México", 
+       "distrito_cricunscripcion": "Dtto. 13",
+       "partido": "morena" 
+       },
+       {
+        "número": 80, 
+       "apellidoPaterno": "Godoy", 
+       "apellidoMaterno": "Rangel", 
+       "nombre": "Leonel", 
+       "entidad": "Michoacán", 
+       "distrito_cricunscripcion": "Dtto. 1",
+       "partido": "morena" 
+       },
+       {
+        "número": 81, 
+       "apellidoPaterno": "González", 
+       "apellidoMaterno": "Cruz", 
+       "nombre": "Alfredo Aurelio", 
+       "entidad": "Oaxaca", 
+       "distrito_cricunscripcion": "Circ. 3",
+       "partido": "morena" 
+       },
+       {
+        "número": 82, 
+       "apellidoPaterno": "González", 
+       "apellidoMaterno": "Hernández", 
+       "nombre": "Alma Anahí", 
+       "entidad": "Quintana Roo", 
+       "distrito_cricunscripcion": "Dtto. 2",
+       "partido": "morena" 
+       },
+       {
+        "número": 83, 
+       "apellidoPaterno": "González", 
+       "apellidoMaterno": "Robledo", 
+       "nombre": "Erasmo", 
+       "entidad": "Tamaulipas", 
+       "distrito_cricunscripcion": "Dtto. 7",
+       "partido": "morena" 
+       },
+       {
+        "número": 84, 
+       "apellidoPaterno": "Guerra", 
+       "apellidoMaterno": "Mena", 
+       "nombre": "Juanita", 
+       "entidad": "Morelos", 
+       "distrito_cricunscripcion": "Dtto. 3",
+       "partido": "morena" 
+       },
+       {
+        "número": 85, 
+       "apellidoPaterno": "Guerrero", 
+       "apellidoMaterno": "Márquez", 
+       "nombre": "Antolín", 
+       "entidad": "San Luis Potosí", 
+       "distrito_cricunscripcion": "Dtto. 4",
+       "partido": "morena" 
+       },
+       {
+        "número": 86, 
+       "apellidoPaterno": "Gutiérrez", 
+       "apellidoMaterno": "Camacho", 
+       "nombre": "Óscar Eugenio", 
+       "entidad": "Ciudad de México", 
+       "distrito_cricunscripcion": "Dtto. 13",
+       "partido": "morena" 
+       },
+       {
+        "número": 87, 
+       "apellidoPaterno": "Gutiérrez", 
+       "apellidoMaterno": "Gutiérrez", 
+       "nombre": "Daniel", 
+       "entidad": "Oaxaca", 
+       "distrito_cricunscripcion": "Dtto. 10",
+       "partido": "morena" 
+       },
+       {
+        "número": 88, 
+       "apellidoPaterno": "Gutiérrez", 
+       "apellidoMaterno": "Luna", 
+       "nombre": "Sergio Carlos", 
+       "entidad": "México", 
+       "distrito_cricunscripcion": "Circ. 5",
+       "partido": "morena" 
+       },
+       {
+        "número": 89, 
+       "apellidoPaterno": "Hernández", 
+       "apellidoMaterno": "Espejo", 
+       "nombre": "Rosa", 
+       "entidad": "Veracruz", 
+       "distrito_cricunscripcion": "Dtto. 4",
+       "partido": "morena" 
+       },
+       {
+        "número": 90, 
+       "apellidoPaterno": "Hernández", 
+       "apellidoMaterno": "Hernández", 
+       "nombre": "Saúl", 
+       "entidad": "San Luis Potosí", 
+       "distrito_cricunscripcion": "Circ. 2",
+       "partido": "morena" 
+       },
+       {
+        "número": 91, 
+       "apellidoPaterno": "Hernández", 
+       "apellidoMaterno": "Pérez", 
+       "nombre": "César Agustín", 
+       "entidad": "México", 
+       "distrito_cricunscripcion": "Dtto. 30",
+       "partido": "morena" 
+       },
+       {
+        "número": 92, 
+       "apellidoPaterno": "Hernández", 
+       "apellidoMaterno": "Pérez", 
+       "nombre": "María Eugenia", 
+       "entidad": "México", 
+       "distrito_cricunscripcion": "Dtto. 11",
+       "partido": "morena" 
+       },
+       {
+        "número": 93, 
+       "apellidoPaterno": "Hernández", 
+       "apellidoMaterno": "Ruedas", 
+       "nombre": "Bennelly Jocabeth", 
+       "entidad": "Zacatecas", 
+       "distrito_cricunscripcion": "Dtto. 1",
+       "partido": "morena" 
+       },
+       {
+        "número": 94, 
+       "apellidoPaterno": "Hernández", 
+       "apellidoMaterno": "Sáenz", 
+       "nombre": "Claudia Alejandra", 
+       "entidad": "Tamaulipas", 
+       "distrito_cricunscripcion": "Dtto. 9",
+       "partido": "morena" 
+       },
+       {
+        "número": 95, 
+       "apellidoPaterno": "Hernández", 
+       "apellidoMaterno": "Tapia", 
+       "nombre": "Arturo Roberto", 
+       "entidad": "México", 
+       "distrito_cricunscripcion": "Dtto. 35",
+       "partido": "morena" 
+       },
+       {
+        "número": 96, 
+       "apellidoPaterno": "Hernández", 
+       "apellidoMaterno": "Villalpando", 
+       "nombre": "Rafael", 
+       "entidad": "Veracruz", 
+       "distrito_cricunscripcion": "Dtto. 10",
+       "partido": "morena" 
+       },
+       {
+        "número": 97, 
+       "apellidoPaterno": "Herrera", 
+       "apellidoMaterno": "Villavicencio", 
+       "nombre": "Mónica", 
+       "entidad": "Veracruz", 
+       "distrito_cricunscripcion": "Dtto. 7",
+       "partido": "morena" 
+       },
+       {
+        "número": 98, 
+       "apellidoPaterno": "Huerta", 
+       "apellidoMaterno": "Jurado", 
+       "nombre": "Javier", 
+       "entidad": "México", 
+       "distrito_cricunscripcion": "Dtto. 37",
+       "partido": "morena" 
+       },
+       {
+        "número": 99, 
+       "apellidoPaterno": "Juan", 
+       "apellidoMaterno": "Carlos", 
+       "nombre": "Irma", 
+       "entidad": "Oaxaca", 
+       "distrito_cricunscripcion": "Dtto. 2",
+       "partido": "morena" 
+       },
+       {
+        "número": 100, 
+       "apellidoPaterno": "Llaven", 
+       "apellidoMaterno": "Abarca", 
+       "nombre": "Jorge Luis", 
+       "entidad": "Chiapas", 
+       "distrito_cricunscripcion": "Dtto. 6",
+       "partido": "morena" 
+       },
+       {
+        "número": 101, 
+       "apellidoPaterno": "Llergo", 
+       "apellidoMaterno": "Latournerie", 
+       "nombre": "Mario Rafael", 
+       "entidad": "Tabasco", 
+       "distrito_cricunscripcion": "Dtto. 6",
+       "partido": "morena" 
+       },
+       {
+        "número": 102, 
+       "apellidoPaterno": "López", 
+       "apellidoMaterno": "Guadarrama", 
+       "nombre": "Carlos", 
+       "entidad": "México", 
+       "distrito_cricunscripcion": "Dtto. 25",
+       "partido": "morena" 
+       },
+       {
+        "número": 103, 
+       "apellidoPaterno": "Lozano", 
+       "apellidoMaterno": "Rodríguez", 
+       "nombre": "Adriana", 
+       "entidad": "Tamaulipas", 
+       "distrito_cricunscripcion": "Dtto. 4",
+       "partido": "morena" 
+       },
+       {
+        "número": 104, 
+       "apellidoPaterno": "Luévano", 
+       "apellidoMaterno": "Luna", 
+       "nombre": "Salma", 
+       "entidad": "Aguascalientes", 
+       "distrito_cricunscripcion": "Circ. 2",
+       "partido": "morena" 
+       },
+       {
+        "número": 105, 
+       "apellidoPaterno": "Manzo", 
+       "apellidoMaterno": "Rodríguez", 
+       "nombre": "Carlos Alberto", 
+       "entidad": "Michoacán", 
+       "distrito_cricunscripcion": "Dtto. 9",
+       "partido": "morena" 
+       },
+       {
+        "número": 106, 
+       "apellidoPaterno": "Mares", 
+       "apellidoMaterno": "Cossío", 
+       "nombre": "Héctor Ireneo", 
+       "entidad": "Baja California", 
+       "distrito_cricunscripcion": "Dtto. 6",
+       "partido": "morena" 
+       },
+       {
+        "número": 107, 
+       "apellidoPaterno": "Martín", 
+       "apellidoMaterno": "Díaz", 
+       "nombre": "Fernando", 
+       "entidad": "Ciudad de México", 
+       "distrito_cricunscripcion": "Circ. 4",
+       "partido": "morena" 
+       },
+       {
+        "número": 108, 
+       "apellidoPaterno": "Márquez", 
+       "apellidoMaterno": "Alkadef Cortés ", 
+       "nombre": "Cecilia", 
+       "entidad": "Jalisco", 
+       "distrito_cricunscripcion": "Circ. 1",
+       "partido": "morena" 
+       },
+       {
+        "número": 109, 
+       "apellidoPaterno": "Martínez", 
+       "apellidoMaterno": "Díaz", 
+       "nombre": "Esther Berenice", 
+       "entidad": "Nuevo León", 
+       "distrito_cricunscripcion": "Circ. 2",
+       "partido": "morena" 
+       },
+       {
+        "número": 110, 
+       "apellidoPaterno": "Martínez", 
+       "apellidoMaterno": "Espinoza", 
+       "nombre": "Gabriela", 
+       "entidad": "Sonora", 
+       "distrito_cricunscripcion": "Dtto. 6",
+       "partido": "morena" 
+       },
+       {
+        "número": 111, 
+       "apellidoPaterno": "Martínez", 
+       "apellidoMaterno": "López", 
+       "nombre": "Jaime", 
+       "entidad": "Michoacán", 
+       "distrito_cricunscripcion": "Circ. 5",
+       "partido": "morena" 
+       },
+       {
+        "número": 112, 
+       "apellidoPaterno": "Maya", 
+       "apellidoMaterno": "Martínez", 
+       "nombre": "Hirepan", 
+       "entidad": "Michoacán", 
+       "distrito_cricunscripcion": "Circ. 5",
+       "partido": "morena" 
+       },
+       {
+        "número": 113, 
+       "apellidoPaterno": "Medina", 
+       "apellidoMaterno": "Filigrana", 
+       "nombre": "Marcos Rosendo", 
+       "entidad": "Tabasco", 
+       "distrito_cricunscripcion": "Dtto. 1",
+       "partido": "morena" 
+       },
+       {
+        "número": 114, 
+       "apellidoPaterno": "Méndez", 
+       "apellidoMaterno": "Denis", 
+       "nombre": "Lorena", 
+       "entidad": "Tabasco", 
+       "distrito_cricunscripcion": "Dtto. 3",
+       "partido": "morena" 
+       },
+       {
+        "número": 115, 
+       "apellidoPaterno": "Mendoza", 
+       "apellidoMaterno": "Álvarez", 
+       "nombre": "Mayra Alicia", 
+       "entidad": "Chiapas", 
+       "distrito_cricunscripcion": "Circ. 3",
+       "partido": "morena" 
+       },
+       {
+        "número": 116, 
+       "apellidoPaterno": "Merlín", 
+       "apellidoMaterno": "García", 
+       "nombre": "María del Rosario", 
+       "entidad": "Guerrero", 
+       "distrito_cricunscripcion": "Dtto. 9",
+       "partido": "morena" 
+       },
+       {
+        "número": 117, 
+       "apellidoPaterno": "Mier", 
+       "apellidoMaterno": "Velazco", 
+       "nombre": "Moisés Ignacio", 
+       "entidad": "Puebla", 
+       "distrito_cricunscripcion": "Circ. 4",
+       "partido": "morena" 
+       },
+       {
+        "número": 118, 
+       "apellidoPaterno": "Morales", 
+       "apellidoMaterno": "Miranda", 
+       "nombre": "Flor Ivone", 
+       "entidad": "Ciudad de México", 
+       "distrito_cricunscripcion": "Dtto. 21",
+       "partido": "morena" 
+       },
+       {
+        "número": 119, 
+       "apellidoPaterno": "Morales", 
+       "apellidoMaterno": "Romero", 
+       "nombre": "Martha Rosa", 
+       "entidad": "Veracruz", 
+       "distrito_cricunscripcion": "Dtto. 16",
+       "partido": "morena" 
+       },
+       {
+        "número": 120, 
+       "apellidoPaterno": "Moreno", 
+       "apellidoMaterno": "Guerra", 
+       "nombre": "Evangelina", 
+       "entidad": "Baja California", 
+       "distrito_cricunscripcion": "Dtto. 5",
+       "partido": "morena" 
+       },
+       {
+        "número": 121, 
+       "apellidoPaterno": "Murguía", 
+       "apellidoMaterno": "Lardizábal", 
+       "nombre": "Daniel", 
+       "entidad": "Chihuahua", 
+       "distrito_cricunscripcion": "Dtto. 1",
+       "partido": "morena" 
+       },
+       {
+        "número": 122, 
+       "apellidoPaterno": "Muñoz", 
+       "apellidoMaterno": "Álvarez", 
+       "nombre": "Rubén Gregorio", 
+       "entidad": "Baja California Sur", 
+       "distrito_cricunscripcion": "Circ. 1",
+       "partido": "morena" 
+       },
+       {
+        "número": 123, 
+       "apellidoPaterno": "Narcia", 
+       "apellidoMaterno": "Coutiño", 
+       "nombre": "Manuel de Jesús", 
+       "entidad": "Chiapas", 
+       "distrito_cricunscripcion": "Dtto. 7",
+       "partido": "morena" 
+       },
+       {
+        "número": 124, 
+       "apellidoPaterno": "Narro", 
+       "apellidoMaterno": "Panameño", 
+       "nombre": "Blanca Araceli", 
+       "entidad": "Tamaulipas", 
+       "distrito_cricunscripcion": "Circ. 2",
+       "partido": "morena" 
+       },
+       {
+        "número": 125, 
+       "apellidoPaterno": "Navarrete", 
+       "apellidoMaterno": "Rivera", 
+       "nombre": "Alma Delia", 
+       "entidad": "México", 
+       "distrito_cricunscripcion": "Dtto. 10",
+       "partido": "morena" 
+       },
+       {
+        "número": 126, 
+       "apellidoPaterno": "Navarro", 
+       "apellidoMaterno": "Conkle", 
+       "nombre": "Sandra Luz", 
+       "entidad": "Sonora", 
+       "distrito_cricunscripcion": "Circ. 1",
+       "partido": "morena" 
+       },
+       {
+        "número": 127, 
+       "apellidoPaterno": "Noriega", 
+       "apellidoMaterno": "Romero", 
+       "nombre": "Carlos", 
+       "entidad": "Coahuila", 
+       "distrito_cricunscripcion": "Circ. 2",
+       "partido": "morena" 
+       },
+       {
+        "número": 128, 
+       "apellidoPaterno": "Obrador", 
+       "apellidoMaterno": "Narváez", 
+       "nombre": "Manuela del Carmen", 
+       "entidad": "Chiapas", 
+       "distrito_cricunscripcion": "Dtto. 1",
+       "partido": "morena" 
+       },
+       {
+        "número": 129, 
+       "apellidoPaterno": "Ocampo", 
+       "apellidoMaterno": "Manzanares", 
+       "nombre": "Araceli", 
+       "entidad": "Guerrero", 
+       "distrito_cricunscripcion": "Dtto. 2",
+       "partido": "morena" 
+       },
+       {
+        "número": 130, 
+       "apellidoPaterno": "Ochoa", 
+       "apellidoMaterno": "Fernández", 
+       "nombre": "Cuauhtémoc", 
+       "entidad": "Hidalgo", 
+       "distrito_cricunscripcion": "Dtto. 5",
+       "partido": "morena" 
+       },
+       {
+        "número": 131, 
+       "apellidoPaterno": "Olua", 
+       "apellidoMaterno": "González", 
+       "nombre": "Yessenia Leticia", 
+       "entidad": "Baja California", 
+       "distrito_cricunscripcion": "Dtto. 1",
+       "partido": "morena" 
+       },
+       {
+        "número": 132, 
+       "apellidoPaterno": "Olvera", 
+       "apellidoMaterno": "Bautista", 
+       "nombre": "Simey", 
+       "entidad": "Hidalgo", 
+       "distrito_cricunscripcion": "Dtto. 3",
+       "partido": "morena" 
+       },
+       {
+        "número": 133, 
+       "apellidoPaterno": "Onofre", 
+       "apellidoMaterno": "Vázquez", 
+       "nombre": "Vicente Alberto", 
+       "entidad": "México", 
+       "distrito_cricunscripcion": "Dtto. 33",
+       "partido": "morena" 
+       },
+       {
+        "número": 134, 
+       "apellidoPaterno": "Ortega", 
+       "apellidoMaterno": "Fonseca", 
+       "nombre": "Pedro David", 
+       "entidad": "Guanajuato", 
+       "distrito_cricunscripcion": "Dtto. 10",
+       "partido": "morena" 
+       },
+       {
+        "número": 135, 
+       "apellidoPaterno": "Ortiz", 
+       "apellidoMaterno": "Tejeda", 
+       "nombre": "Carlos Francisco", 
+       "entidad": "Ciudad de México", 
+       "distrito_cricunscripcion": "Circ. 4",
+       "partido": "morena" 
+       },
+       {
+        "número": 136, 
+       "apellidoPaterno": "Pani", 
+       "apellidoMaterno": "Barragán", 
+       "nombre": "Alejandra", 
+       "entidad": "Morelos", 
+       "distrito_cricunscripcion": "Dtto. 2",
+       "partido": "morena" 
+       },
+       {
+        "número": 137, 
+       "apellidoPaterno": "Parra", 
+       "apellidoMaterno": "Juárez", 
+       "nombre": "Inés", 
+       "entidad": "Puebla", 
+       "distrito_cricunscripcion": "Dtto. 4",
+       "partido": "morena" 
+       },
+       {
+        "número": 138, 
+       "apellidoPaterno": "Pérez", 
+       "apellidoMaterno": "Barcenas", 
+       "nombre": "Lidia", 
+       "entidad": "Ciudad de México", 
+       "distrito_cricunscripcion": "Dtto. 11",
+       "partido": "morena" 
+       },
+       {
+        "número": 139, 
+       "apellidoPaterno": "Pérez", 
+       "apellidoMaterno": "Bernabé", 
+       "nombre": "Jaime Humberto", 
+       "entidad": "Veracruz", 
+       "distrito_cricunscripcion": "Dtto. 6",
+       "partido": "morena" 
+       },
+       {
+        "número": 140, 
+       "apellidoPaterno": "Pérez", 
+       "apellidoMaterno": "Garibay", 
+       "nombre": "Marco Antonio", 
+       "entidad": "Jalisco", 
+       "distrito_cricunscripcion": "Circ. 1",
+       "partido": "morena" 
+       },
+       {
+        "número": 141, 
+       "apellidoPaterno": "Pérez", 
+       "apellidoMaterno": "Gutiérrez", 
+       "nombre": "Blanca Carolina", 
+       "entidad": "Chiapas", 
+       "distrito_cricunscripcion": "Circ. 3",
+       "partido": "morena" 
+       },
+       {
+        "número": 142, 
+       "apellidoPaterno": "Pérez", 
+       "apellidoMaterno": "Hernández", 
+       "nombre": "Carlos Augusto", 
+       "entidad": "Tlaxcala", 
+       "distrito_cricunscripcion": "Dtto. 3",
+       "partido": "morena" 
+       },
+       {
+        "número": 143, 
+       "apellidoPaterno": "Pérez", 
+       "apellidoMaterno": "López", 
+       "nombre": "Beatriz Dominga", 
+       "entidad": "Oaxaca", 
+       "distrito_cricunscripcion": "Dtto. 6",
+       "partido": "morena" 
+       },
+       {
+        "número": 144, 
+       "apellidoPaterno": "Pérez", 
+       "apellidoMaterno": "Navarrete", 
+       "nombre": "Miguel Ángel", 
+       "entidad": "Hidalgo", 
+       "distrito_cricunscripcion": "Dtto. 7",
+       "partido": "morena" 
+       },
+       {
+        "número": 145, 
+       "apellidoPaterno": "Pérez", 
+       "apellidoMaterno": "Segura", 
+       "nombre": "Laura Imelda", 
+       "entidad": "Jalisco", 
+       "distrito_cricunscripcion": "Dtto. 16",
+       "partido": "morena" 
+       },
+       {
+        "número": 146, 
+       "apellidoPaterno": "Peña", 
+       "apellidoMaterno": "Escalante", 
+       "nombre": "Rosangela Amairany", 
+       "entidad": "Sonora", 
+       "distrito_cricunscripcion": "Dtto. 3",
+       "partido": "morena" 
+       },
+       {
+        "número": 147, 
+       "apellidoPaterno": "Peñaloza", 
+       "apellidoMaterno": "Pérez", 
+       "nombre": "Pedro Sergio", 
+       "entidad": "Guerrero", 
+       "distrito_cricunscripcion": "Circ. 4",
+       "partido": "morena" 
+       },
+       {
+        "número": 148, 
+       "apellidoPaterno": "Polevnsky", 
+       "apellidoMaterno": "Gurwitz", 
+       "nombre": "Yeidckol", 
+       "entidad": "México", 
+       "distrito_cricunscripcion": "Circ. 5",
+       "partido": "morena" 
+       },
+       {
+        "número": 149, 
+       "apellidoPaterno": "Porras", 
+       "apellidoMaterno": "Domínguez", 
+       "nombre": "Alfredo", 
+       "entidad": "Baja California Sur", 
+       "distrito_cricunscripcion": "Dtto. 2",
+       "partido": "morena" 
+       },
+       {
+        "número": 150, 
+       "apellidoPaterno": "Prado", 
+       "apellidoMaterno": "de los Santos", 
+       "nombre": "Miguel", 
+       "entidad": "México", 
+       "distrito_cricunscripcion": "Circ. 5",
+       "partido": "morena" 
+       },
+       {
+        "número": 151, 
+       "apellidoPaterno": "Prieto", 
+       "apellidoMaterno": "Terrazas", 
+       "nombre": "Susana", 
+       "entidad": "Chihuahua", 
+       "distrito_cricunscripcion": "Circ. 1",
+       "partido": "morena" 
+       },
+       {
+        "número": 152, 
+       "apellidoPaterno": "Rabelo", 
+       "apellidoMaterno": "Estrada", 
+       "nombre": "Karla María", 
+       "entidad": "Tabasco", 
+       "distrito_cricunscripcion": "Dtto. 2",
+       "partido": "morena" 
+       },
+       {
+        "número": 153, 
+       "apellidoPaterno": "Ramírez", 
+       "apellidoMaterno": "Padilla", 
+       "nombre": "Julieta Andrea", 
+       "entidad": "Baja California", 
+       "distrito_cricunscripcion": "Dtto. 2",
+       "partido": "morena" 
+       },
+       {
+        "número": 154, 
+       "apellidoPaterno": "Ramiro", 
+       "apellidoMaterno": "Alejo", 
+       "nombre": "Brenda", 
+       "entidad": "Ciudad de México", 
+       "distrito_cricunscripcion": "Circ. 4",
+       "partido": "morena" 
+       },
+       {
+        "número": 155, 
+       "apellidoPaterno": "Ramos", 
+       "apellidoMaterno": "Juárez", 
+       "nombre": "Adela", 
+       "entidad": "Chiapas", 
+       "distrito_cricunscripcion": "Dtto. 2",
+       "partido": "morena" 
+       },
+       {
+        "número": 156, 
+       "apellidoPaterno": "Reyes", 
+       "apellidoMaterno": "Carmona", 
+       "nombre": "Emmanuel", 
+       "entidad": "Guanajuato", 
+       "distrito_cricunscripcion": "Dtto. 13",
+       "partido": "morena" 
+       },
+       {
+        "número": 157, 
+       "apellidoPaterno": "Reyes", 
+       "apellidoMaterno": "López", 
+       "nombre": "Valentín", 
+       "entidad": "Veracruz", 
+       "distrito_cricunscripcion": "Dtto. 17",
+       "partido": "morena" 
+       },
+       {
+        "número": 158, 
+       "apellidoPaterno": "Reyes", 
+       "apellidoMaterno": "Silva", 
+       "nombre": "María del Rosario", 
+       "entidad": "Guerrero", 
+       "distrito_cricunscripcion": "Circ. 4",
+       "partido": "morena" 
+       },
+       {
+        "número": 159, 
+       "apellidoPaterno": "Rincón", 
+       "apellidoMaterno": "Chanona", 
+       "nombre": "Sonia", 
+       "entidad": "Chiapas", 
+       "distrito_cricunscripcion": "Circ. 3",
+       "partido": "morena" 
+       },
+       {
+        "número": 160, 
+       "apellidoPaterno": "Ríos", 
+       "apellidoMaterno": "Cheno", 
+       "nombre": "Bernardo", 
+       "entidad": "Sonora", 
+       "distrito_cricunscripcion": "Dtto. 4",
+       "partido": "morena" 
+       },
+       {
+        "número": 161, 
+       "apellidoPaterno": "Ritter", 
+       "apellidoMaterno": "Ocampo", 
+       "nombre": "Klaus Uwe", 
+       "entidad": "Morelos", 
+       "distrito_cricunscripcion": "Circ. 4",
+       "partido": "morena" 
+       },
+       {
+        "número": 162, 
+       "apellidoPaterno": "Robledo", 
+       "apellidoMaterno": "Ruiz", 
+       "nombre": "Juan Ramiro", 
+       "entidad": "San Luis Potosí", 
+       "distrito_cricunscripcion": "Circ. 2",
+       "partido": "morena" 
+       },
+       {
+        "número": 163, 
+       "apellidoPaterno": "Robles", 
+       "apellidoMaterno": "Gómez", 
+       "nombre": "Manuel Alejandro", 
+       "entidad": "Ciudad de México", 
+       "distrito_cricunscripcion": "Circ. 4",
+       "partido": "morena" 
+       },
+       {
+        "número": 164, 
+       "apellidoPaterno": "Robles", 
+       "apellidoMaterno": "Ortíz", 
+       "nombre": "Martha", 
+       "entidad": "México", 
+       "distrito_cricunscripcion": "Dtto. 29",
+       "partido": "morena" 
+       },
+       {
+        "número": 165, 
+       "apellidoPaterno": "Rodríguez", 
+       "apellidoMaterno": "González", 
+       "nombre": "Manuel", 
+       "entidad": "Tabasco", 
+       "distrito_cricunscripcion": "Dtto. 4",
+       "partido": "morena" 
+       },
+       {
+        "número": 166, 
+       "apellidoPaterno": "Rodríguez", 
+       "apellidoMaterno": "Torres", 
+       "nombre": "Ángel Miguel", 
+       "entidad": "México", 
+       "distrito_cricunscripcion": "Circ. 5",
+       "partido": "morena" 
+       },
+       {
+        "número": 167, 
+       "apellidoPaterno": "Rojas", 
+       "apellidoMaterno": "Martínez", 
+       "nombre": "Beatríz", 
+       "entidad": "Ciudad de México", 
+       "distrito_cricunscripcion": "Dtto. 7",
+       "partido": "morena" 
+       },
+       {
+        "número": 168, 
+       "apellidoPaterno": "Román", 
+       "apellidoMaterno": "Ávila", 
+       "nombre": "María Guadalupe", 
+       "entidad": "México", 
+       "distrito_cricunscripcion": "Dtto. 17",
+       "partido": "morena" 
+       },
+       {
+        "número": 169, 
+       "apellidoPaterno": "Salazar", 
+       "apellidoMaterno": "López", 
+       "nombre": "Nohemí", 
+       "entidad": "México", 
+       "distrito_cricunscripcion": "Circ. 5",
+       "partido": "morena" 
+       },
+       {
+        "número": 170, 
+       "apellidoPaterno": "Sánchez", 
+       "apellidoMaterno": "Barrios", 
+       "nombre": "Carlos", 
+       "entidad": "Guerrero", 
+       "distrito_cricunscripcion": "Dtto. 7",
+       "partido": "morena" 
+       },
+       {
+        "número": 171, 
+       "apellidoPaterno": "Sánchez", 
+       "apellidoMaterno": "Ortiz", 
+       "nombre": "Graciela", 
+       "entidad": "México", 
+       "distrito_cricunscripcion": "Dtto. 21",
+       "partido": "morena" 
+       },
+       {
+        "número": 172, 
+       "apellidoPaterno": "Sánchez", 
+       "apellidoMaterno": "Rodríguez", 
+       "nombre": "Juan Pablo", 
+       "entidad": "México", 
+       "distrito_cricunscripcion": "Dtto. 20",
+       "partido": "morena" 
+       },
+       {
+        "número": 173, 
+       "apellidoPaterno": "Sandoval", 
+       "apellidoMaterno": "Ballesteros", 
+       "nombre": "Pablo Amílcar", 
+       "entidad": "Aguascalientes", 
+       "distrito_cricunscripcion": "Dtto. 4",
+       "partido": "morena" 
+       },
+       {
+        "número": 174, 
+       "apellidoPaterno": "Sandoval", 
+       "apellidoMaterno": "Soto", 
+       "nombre": "Martín", 
+       "entidad": "Hidalgo", 
+       "distrito_cricunscripcion": "Circ. 5",
+       "partido": "morena" 
+       },
+       {
+        "número": 175, 
+       "apellidoPaterno": "Santiago", 
+       "apellidoMaterno": "Chepi", 
+       "nombre": "Azael", 
+       "entidad": "Oaxaca", 
+       "distrito_cricunscripcion": "Dtto. 4",
+       "partido": "morena" 
+       },
+       {
+        "número": 176, 
+       "apellidoPaterno": "Santiago", 
+       "apellidoMaterno": "Manuel", 
+       "nombre": "Irán", 
+       "entidad": "Oaxaca", 
+       "distrito_cricunscripcion": "Circ. 3",
+       "partido": "morena" 
+       },
+       {
+        "número": 177, 
+       "apellidoPaterno": "Santiago", 
+       "apellidoMaterno": "Marcos", 
+       "nombre": "Nancy Yadira", 
+       "entidad": "Sinaloa", 
+       "distrito_cricunscripcion": "Dtto. 5",
+       "partido": "morena" 
+       },
+       {
+        "número": 178, 
+       "apellidoPaterno": "Segura", 
+       "apellidoMaterno": "Trejo", 
+       "nombre": "Elena Edith", 
+       "entidad": "Ciudad de México", 
+       "distrito_cricunscripcion": "Circ. 4",
+       "partido": "morena" 
+       },
+       {
+        "número": 179, 
+       "apellidoPaterno": "Sibaja", 
+       "apellidoMaterno": "Mendoza", 
+       "nombre": "Jorge Ángel", 
+       "entidad": "Chiapas", 
+       "distrito_cricunscripcion": "Circ. 3",
+       "partido": "morena" 
+       },
+       {
+        "número": 180, 
+       "apellidoPaterno": "Sierra", 
+       "apellidoMaterno": "Damián", 
+       "nombre": "María", 
+       "entidad": "Campeche", 
+       "distrito_cricunscripcion": "Dtto. 2",
+       "partido": "morena" 
+       },
+       {
+        "número": 181, 
+       "apellidoPaterno": "Silva", 
+       "apellidoMaterno": "Hernández", 
+       "nombre": "Dulce María", 
+       "entidad": "Tlaxcala", 
+       "distrito_cricunscripcion": "Circ. 4",
+       "partido": "morena" 
+       },
+       {
+        "número": 182, 
+       "apellidoPaterno": "Tánori", 
+       "apellidoMaterno": "Córdova", 
+       "nombre": "Judith Celina", 
+       "entidad": "Sonora", 
+       "distrito_cricunscripcion": "Dtto. 5",
+       "partido": "morena" 
+       },
+       {
+        "número": 183, 
+       "apellidoPaterno": "Tello", 
+       "apellidoMaterno": "Espinosa", 
+       "nombre": "Claudia", 
+       "entidad": "Veracruz", 
+       "distrito_cricunscripcion": "Dtto. 8",
+       "partido": "morena" 
+       },
+       {
+        "número": 184, 
+       "apellidoPaterno": "Tenorio", 
+       "apellidoMaterno": "Adame", 
+       "nombre": "Paola", 
+       "entidad": "Veracruz", 
+       "distrito_cricunscripcion": "Dtto. 19",
+       "partido": "morena" 
+       },
+       {
+        "número": 185, 
+       "apellidoPaterno": "Torres", 
+       "apellidoMaterno": "Escudero", 
+       "nombre": "Mario Alberto", 
+       "entidad": "Veracruz", 
+       "distrito_cricunscripcion": "Circ. 3",
+       "partido": "morena" 
+       },
+       {
+        "número": 186, 
+       "apellidoPaterno": "Torres", 
+       "apellidoMaterno": "Navarro", 
+       "nombre": "Juan Guadalupe", 
+       "entidad": "Sinaloa", 
+       "distrito_cricunscripcion": "Circ. 1",
+       "partido": "morena" 
+       },
+       {
+        "número": 187, 
+       "apellidoPaterno": "Torruco", 
+       "apellidoMaterno": "Garza", 
+       "nombre": "Miguel", 
+       "entidad": "Ciudad de México", 
+       "distrito_cricunscripcion": "Circ. 4",
+       "partido": "morena" 
+       },
+       {
+        "número": 188, 
+       "apellidoPaterno": "Valencia", 
+       "apellidoMaterno": "Cruz", 
+       "nombre": "Rolsalba", 
+       "entidad": "Veracruz", 
+       "distrito_cricunscripcion": "Dtto. 14",
+       "partido": "morena" 
+       },
+       {
+        "número": 189, 
+       "apellidoPaterno": "Valencia", 
+       "apellidoMaterno": "Medina", 
+       "nombre": "Alma Griselda", 
+       "entidad": "Michoacán", 
+       "distrito_cricunscripcion": "Circ. 5",
+       "partido": "morena" 
+       },
+       {
+        "número": 190, 
+       "apellidoPaterno": "Valenzuela", 
+       "apellidoMaterno": "Corral", 
+       "nombre": "Roberto", 
+       "entidad": "Aguascalientes", 
+       "distrito_cricunscripcion": "Circ. 2",
+       "partido": "morena" 
+       },
+       {
+        "número": 191, 
+       "apellidoPaterno": "Varela", 
+       "apellidoMaterno": "López", 
+       "nombre": "Víctor Gabriel", 
+       "entidad": "Ciudad de México", 
+       "distrito_cricunscripcion": "Dtto. 22",
+       "partido": "morena" 
+       },
+       {
+        "número": 192, 
+       "apellidoPaterno": "Vargas", 
+       "apellidoMaterno": "Meraz", 
+       "nombre": "Teresita de Jesús", 
+       "entidad": "Chihuahua", 
+       "distrito_cricunscripcion": "Dtto. 2",
+       "partido": "morena" 
+       },
+       {
+        "número": 193, 
+       "apellidoPaterno": "Vázquez", 
+       "apellidoMaterno": "Arellano", 
+       "nombre": "Manuel", 
+       "entidad": "Veracruz", 
+       "distrito_cricunscripcion": "Circ. 3",
+       "partido": "morena" 
+       },
+       {
+        "número": 194, 
+       "apellidoPaterno": "Vázquez", 
+       "apellidoMaterno": "Vázquez", 
+       "nombre": "Alfredo", 
+       "entidad": "Chiapas", 
+       "distrito_cricunscripcion": "Dtto. 3",
+       "partido": "morena" 
+       },
+       {
+        "número": 195, 
+       "apellidoPaterno": "Vázquez", 
+       "apellidoMaterno": "Álvarez", 
+       "nombre": "Brianda Aurora", 
+       "entidad": "Sonora", 
+       "distrito_cricunscripcion": "Circ. 1",
+       "partido": "morena" 
+       },
+       {
+        "número": 196, 
+       "apellidoPaterno": "Vences", 
+       "apellidoMaterno": "Valencia", 
+       "nombre": "Julieta Kristal", 
+       "entidad": "Puebla", 
+       "distrito_cricunscripcion": "Circ. 4",
+       "partido": "morena" 
+       },
+       {
+        "número": 197, 
+       "apellidoPaterno": "Vidal", 
+       "apellidoMaterno": "Benavides", 
+       "nombre": "Fautino", 
+       "entidad": "Veracruz", 
+       "distrito_cricunscripcion": "Circ. 3",
+       "partido": "morena" 
+       },
+       {
+        "número": 198, 
+       "apellidoPaterno": "Villa", 
+       "apellidoMaterno": "Villegas", 
+       "nombre": "Alberto", 
+       "entidad": "Jalisco", 
+       "distrito_cricunscripcion": "Dtto. 7",
+       "partido": "morena" 
+       },
+       {
+        "número": 199, 
+       "apellidoPaterno": "Villegas", 
+       "apellidoMaterno": "Guarneros", 
+       "nombre": "Dulce María Corina", 
+       "entidad": "Veracruz", 
+       "distrito_cricunscripcion": "Dtto. 15",
+       "partido": "morena" 
+       },
+       {
+        "número": 200, 
+       "apellidoPaterno": "Villegas", 
+       "apellidoMaterno": "Sánchez", 
+       "nombre": "Merary", 
+       "entidad": "Sinaloa", 
+       "distrito_cricunscripcion": "Dtto. 7",
+       "partido": "morena" 
+       },
+       {
+        "número": 201, 
+       "apellidoPaterno": "Zamora", 
+       "apellidoMaterno": "Valdez", 
+       "nombre": "Casimiro", 
+       "entidad": "Sinaloa", 
+       "distrito_cricunscripcion": "Dtto. 4",
+       "partido": "morena" 
+       },
+       {
+        "número": 202, 
+       "apellidoPaterno": "Zebadúa", 
+       "apellidoMaterno": "Alva", 
+       "nombre": "Joaquín", 
+       "entidad": "Chiapas", 
+       "distrito_cricunscripcion": "Dtto. 4",
+       "partido": "morena" 
+       },
+       {
+        "número": 203, 
+       "apellidoPaterno": "Zúñiga", 
+       "apellidoMaterno": "Cuevas", 
+       "nombre": "María del Carmen", 
+       "entidad": "Colima", 
+       "distrito_cricunscripcion": "Dtto. 2",
+       "partido": "morena" 
+       }     
+]
