@@ -1,5 +1,14 @@
 [
     {
+       "número": 0, 
+       "apellidoPaterno": "N/A", 
+       "apellidoMaterno": "N/A", 
+       "nombre": "N/A", 
+       "entidad": "N/A", 
+       "distrito_cricunscripcion": "N/A",
+       "partido": "N/A" 
+    },
+    {
         "número": 1, 
        "apellidoPaterno": "Gamiño", 
        "apellidoMaterno": "García", 
