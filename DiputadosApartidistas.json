@@ -5,7 +5,7 @@
        "apellidoMaterno": "N/A", 
        "nombre": "N/A", 
        "entidad": "N/A", 
-       "distrito_cricunscripcion": "N/A",
+       "distrito_circunscripcion": "N/A",
        "partido": "N/A" 
     },
     {
@@ -14,7 +14,7 @@
        "apellidoMaterno": "García", 
        "nombre": "Rocío Alexis", 
        "entidad": "México", 
-       "distrito_cricunscripcion": "Dtto. 6",
+       "distrito_circunscripcion": "Dtto. 6",
        "partido": "apartidista" 
        }
 ]

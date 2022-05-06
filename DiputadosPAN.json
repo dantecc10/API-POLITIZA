@@ -5,7 +5,7 @@
        "apellidoMaterno": "N/A", 
        "nombre": "N/A", 
        "entidad": "N/A", 
-       "distrito_cricunscripcion": "N/A",
+       "distrito_circunscripcion": "N/A",
        "partido": "N/A" 
     },
     {
@@ -14,7 +14,7 @@
        "apellidoMaterno": "Romero", 
        "nombre": "Paulina", 
        "entidad": "Querétaro", 
-       "distrito_cricunscripcion": "Circ. 2",
+       "distrito_circunscripcion": "Circ. 2",
        "partido": "pan" 
        },
        {
@@ -23,7 +23,7 @@
        "apellidoMaterno": "Coronado", 
        "nombre": "Marco Humberto", 
        "entidad": "Puebla", 
-       "distrito_cricunscripcion": "Dtto. 10",
+       "distrito_circunscripcion": "Dtto. 10",
        "partido": "pan" 
        },
        {
@@ -32,7 +32,7 @@
        "apellidoMaterno": "Smer", 
        "nombre": "Óscar de Jesús", 
        "entidad": "Tamaulipas", 
-       "distrito_cricunscripcion": "Dtto. 5",
+       "distrito_circunscripcion": "Dtto. 5",
        "partido": "pan" 
        },
        {
@@ -41,7 +41,7 @@
        "apellidoMaterno": "Puppo", 
        "nombre": "Marco Antonio", 
        "entidad": "Baja California Sur", 
-       "distrito_cricunscripcion": "Dtto. 1",
+       "distrito_circunscripcion": "Dtto. 1",
        "partido": "pan" 
        },
        {
@@ -50,7 +50,7 @@
        "apellidoMaterno": "Hernández", 
        "nombre": "Daniela Soraya", 
        "entidad": "Chihuahua", 
-       "distrito_cricunscripcion": "Dtto. 4",
+       "distrito_circunscripcion": "Dtto. 4",
        "partido": "pan" 
        },
        {
@@ -59,7 +59,7 @@
        "apellidoMaterno": "Orozco", 
        "nombre": "Ana Teresa", 
        "entidad": "Puebla", 
-       "distrito_cricunscripcion": "Dtto. 9",
+       "distrito_circunscripcion": "Dtto. 9",
        "partido": "pan" 
        },
        {
@@ -68,7 +68,7 @@
        "apellidoMaterno": "Figueroa", 
        "nombre": "Anuar Roberto", 
        "entidad": "México", 
-       "distrito_cricunscripcion": "Circ. 5",
+       "distrito_circunscripcion": "Circ. 5",
        "partido": "pan" 
        },
        {
@@ -77,7 +77,7 @@
        "apellidoMaterno": "Zúñiga", 
        "nombre": "Xavier", 
        "entidad": "San Luis Potosí", 
-       "distrito_cricunscripcion": "Circ. 2",
+       "distrito_circunscripcion": "Circ. 2",
        "partido": "pan" 
        },
        {
@@ -86,7 +86,7 @@
        "apellidoMaterno": "Guerrero", 
        "nombre": "José Luis", 
        "entidad": "Querétaro", 
-       "distrito_cricunscripcion": "Circ. 2",
+       "distrito_circunscripcion": "Circ. 2",
        "partido": "pan" 
        },
        {
@@ -95,7 +95,7 @@
        "apellidoMaterno": "Hernández", 
        "nombre": "Itzel Josefina", 
        "entidad": "Guanajuato", 
-       "distrito_cricunscripcion": "Dtto. 15",
+       "distrito_circunscripcion": "Dtto. 15",
        "partido": "pan" 
        },
        {
@@ -104,7 +104,7 @@
        "apellidoMaterno": "Trejo", 
        "nombre": "Ana María", 
        "entidad": "México", 
-       "distrito_cricunscripcion": "Dtto. 14",
+       "distrito_circunscripcion": "Dtto. 14",
        "partido": "pan" 
        },
        {
@@ -113,7 +113,7 @@
        "apellidoMaterno": "Martínez", 
        "nombre": "Carolina", 
        "entidad": "Puebla", 
-       "distrito_cricunscripcion": "Dtto. 11",
+       "distrito_circunscripcion": "Dtto. 11",
        "partido": "pan" 
        },
        {
@@ -122,7 +122,7 @@
        "apellidoMaterno": "Moreno", 
        "nombre": "Mónica", 
        "entidad": "Aguascalientes", 
-       "distrito_cricunscripcion": "Dtto. 2",
+       "distrito_circunscripcion": "Dtto. 2",
        "partido": "pan" 
        },
        {
@@ -131,7 +131,7 @@
        "apellidoMaterno": "Pinelo", 
        "nombre": "Kathia María", 
        "entidad": "Yucatán", 
-       "distrito_cricunscripcion": "Circ. 3",
+       "distrito_circunscripcion": "Circ. 3",
        "partido": "pan" 
        },
        {
@@ -140,7 +140,7 @@
        "apellidoMaterno": "González", 
        "nombre": "Gina Gerardina", 
        "entidad": "Durango", 
-       "distrito_cricunscripcion": "Dtto. 4",
+       "distrito_circunscripcion": "Dtto. 4",
        "partido": "pan" 
        },
        {
@@ -149,7 +149,7 @@
        "apellidoMaterno": "de Oro Palacios", 
        "nombre": "María Teresa", 
        "entidad": "México", 
-       "distrito_cricunscripcion": "Dtto. 34",
+       "distrito_circunscripcion": "Dtto. 34",
        "partido": "pan" 
        },
        {
@@ -158,7 +158,7 @@
        "apellidoMaterno": "Olivares", 
        "nombre": "Héctor Israel", 
        "entidad": "Nuevo León", 
-       "distrito_cricunscripcion": "Dtto. 1",
+       "distrito_circunscripcion": "Dtto. 1",
        "partido": "pan" 
        },
        {
@@ -167,7 +167,7 @@
        "apellidoMaterno": "Garza", 
        "nombre": "Francisco Javier", 
        "entidad": "Durango", 
-       "distrito_cricunscripcion": "Dtto. 1",
+       "distrito_circunscripcion": "Dtto. 1",
        "partido": "pan" 
        },
        {
@@ -176,7 +176,7 @@
        "apellidoMaterno": "Cauich", 
        "nombre": "Sergio Enrrique", 
        "entidad": "Yucatán", 
-       "distrito_cricunscripcion": "Dtto. 1",
+       "distrito_circunscripcion": "Dtto. 1",
        "partido": "pan" 
        },
        {
@@ -185,7 +185,7 @@
        "apellidoMaterno": "Negrete", 
        "nombre": "Román", 
        "entidad": "Guanajuato", 
-       "distrito_cricunscripcion": "Circ. 2",
+       "distrito_circunscripcion": "Circ. 2",
        "partido": "pan" 
        },
        {
@@ -194,7 +194,7 @@
        "apellidoMaterno": "Fernández", 
        "nombre": "Eliseo", 
        "entidad": "Chihuahua", 
-       "distrito_cricunscripcion": "Circ. 1",
+       "distrito_circunscripcion": "Circ. 1",
        "partido": "pan" 
        },
        {
@@ -203,7 +203,7 @@
        "apellidoMaterno": "Duarte", 
        "nombre": "Laura Patricia", 
        "entidad": "Chihuahua", 
-       "distrito_cricunscripcion": "Dtto. 6",
+       "distrito_circunscripcion": "Dtto. 6",
        "partido": "pan" 
        },
        {
@@ -212,7 +212,7 @@
        "apellidoMaterno": "González", 
        "nombre": "Wendy Maricela", 
        "entidad": "Nuevo León", 
-       "distrito_cricunscripcion": "Dtto. 3",
+       "distrito_circunscripcion": "Dtto. 3",
        "partido": "pan" 
        },
        {
@@ -221,7 +221,7 @@
        "apellidoMaterno": "Miranda", 
        "nombre": "Santiago", 
        "entidad": "Ciudad de México", 
-       "distrito_cricunscripcion": "Circ. 4",
+       "distrito_circunscripcion": "Circ. 4",
        "partido": "pan" 
        },
        {
@@ -230,7 +230,7 @@
        "apellidoMaterno": "Villalón", 
        "nombre": "Erika de los Ángeles", 
        "entidad": "Querétaro", 
-       "distrito_cricunscripcion": "Dtto. 5",
+       "distrito_circunscripcion": "Dtto. 5",
        "partido": "pan" 
        },
        {
@@ -239,7 +239,7 @@
        "apellidoMaterno": "Fabre", 
        "nombre": "María del Carmen", 
        "entidad": "Veracruz", 
-       "distrito_cricunscripcion": "Circ. 3",
+       "distrito_circunscripcion": "Circ. 3",
        "partido": "pan" 
        },
        {
@@ -248,7 +248,7 @@
        "apellidoMaterno": "Galván", 
        "nombre": "Jorge Arturo", 
        "entidad": "Guanajuato", 
-       "distrito_cricunscripcion": "Dtto. 11",
+       "distrito_circunscripcion": "Dtto. 11",
        "partido": "pan" 
        },
        {
@@ -257,7 +257,7 @@
        "apellidoMaterno": "Arrona", 
        "nombre": "Ana María", 
        "entidad": "Guanajuato", 
-       "distrito_cricunscripcion": "Dtto. 6",
+       "distrito_circunscripcion": "Dtto. 6",
        "partido": "pan" 
        },
        {
@@ -266,7 +266,7 @@
        "apellidoMaterno": "Torres", 
        "nombre": "Joanna Alejandra", 
        "entidad": "México", 
-       "distrito_cricunscripcion": "Dtto. 7",
+       "distrito_circunscripcion": "Dtto. 7",
        "partido": "pan" 
        },
        {
@@ -275,7 +275,7 @@
        "apellidoMaterno": "Castro", 
        "nombre": "Yesenia", 
        "entidad": "Guerrero", 
-       "distrito_cricunscripcion": "Circ. 4",
+       "distrito_circunscripcion": "Circ. 4",
        "partido": "pan" 
        },
        {
@@ -284,7 +284,7 @@
        "apellidoMaterno": "Torales", 
        "nombre": "María Josefina", 
        "entidad": "Veracruz", 
-       "distrito_cricunscripcion": "Dtto. 12",
+       "distrito_circunscripcion": "Dtto. 12",
        "partido": "pan" 
        },
        {
@@ -293,7 +293,7 @@
        "apellidoMaterno": "García", 
        "nombre": "José Antonio", 
        "entidad": "México", 
-       "distrito_cricunscripcion": "Dtto. 18",
+       "distrito_circunscripcion": "Dtto. 18",
        "partido": "pan" 
        },
        {
@@ -302,7 +302,7 @@
        "apellidoMaterno": "Velasco", 
        "nombre": "Anabey", 
        "entidad": "Michoacán", 
-       "distrito_cricunscripcion": "Circ. 5",
+       "distrito_circunscripcion": "Circ. 5",
        "partido": "pan" 
        },
        {
@@ -311,7 +311,7 @@
        "apellidoMaterno": "Treviño", 
        "nombre": "Pedro", 
        "entidad": "Nuevo León", 
-       "distrito_cricunscripcion": "Dtto. 11",
+       "distrito_circunscripcion": "Dtto. 11",
        "partido": "pan" 
        },
        {
@@ -320,7 +320,7 @@
        "apellidoMaterno": "del Río", 
        "nombre": "Enrique", 
        "entidad": "Michoacán", 
-       "distrito_cricunscripcion": "Dtto. 5",
+       "distrito_circunscripcion": "Dtto. 5",
        "partido": "pan" 
        },
        {
@@ -329,7 +329,7 @@
        "apellidoMaterno": "Cárdenas", 
        "nombre": "Annia Sarahí", 
        "entidad": "Nuevo León", 
-       "distrito_cricunscripcion": "Dtto. 6",
+       "distrito_circunscripcion": "Dtto. 6",
        "partido": "pan" 
        },
        {
@@ -338,7 +338,7 @@
        "apellidoMaterno": "del Campo", 
        "nombre": "Gurza Mariana", 
        "entidad": "Ciudad de México", 
-       "distrito_cricunscripcion": "Circ. 4",
+       "distrito_circunscripcion": "Circ. 4",
        "partido": "pan" 
        },
        {
@@ -347,7 +347,7 @@
        "apellidoMaterno": "Alonso", 
        "nombre": "Carmen Rocío", 
        "entidad": "Chihuahua", 
-       "distrito_cricunscripcion": "Dtto. 8",
+       "distrito_circunscripcion": "Dtto. 8",
        "partido": "pan" 
        },
        {
@@ -356,7 +356,7 @@
        "apellidoMaterno": "Azcárraga", 
        "nombre": "Rosa María", 
        "entidad": "Tamaulipas", 
-       "distrito_cricunscripcion": "Dtto. 8",
+       "distrito_circunscripcion": "Dtto. 8",
        "partido": "pan" 
        },
        {
@@ -365,7 +365,7 @@
        "apellidoMaterno": "Márquez", 
        "nombre": "Karen Michel", 
        "entidad": "Guanajuato", 
-       "distrito_cricunscripcion": "Dtto. 7",
+       "distrito_circunscripcion": "Dtto. 7",
        "partido": "pan" 
        },
        {
@@ -374,7 +374,7 @@
        "apellidoMaterno": "Urrutia", 
        "nombre": "Wendy", 
        "entidad": "Ciudad de México", 
-       "distrito_cricunscripcion": "Dtto. 3",
+       "distrito_circunscripcion": "Dtto. 3",
        "partido": "pan" 
        },
        {
@@ -383,7 +383,7 @@
        "apellidoMaterno": "Zepeda", 
        "nombre": "Javier", 
        "entidad": "México", 
-       "distrito_cricunscripcion": "Dtto. 40",
+       "distrito_circunscripcion": "Dtto. 40",
        "partido": "pan" 
        },
        {
@@ -392,7 +392,7 @@
        "apellidoMaterno": "Valdez", 
        "nombre": "María de los Ángeles", 
        "entidad": "Chihuahua", 
-       "distrito_cricunscripcion": "Dtto. 9",
+       "distrito_circunscripcion": "Dtto. 9",
        "partido": "pan" 
        },
        {
@@ -401,7 +401,7 @@
        "apellidoMaterno": "Valtierra", 
        "nombre": "Diana Estefanía", 
        "entidad": "Guanajuato", 
-       "distrito_cricunscripcion": "Circ. 2",
+       "distrito_circunscripcion": "Circ. 2",
        "partido": "pan" 
        },
        {
@@ -410,7 +410,7 @@
        "apellidoMaterno": "Escobar", 
        "nombre": "Alma Rosa", 
        "entidad": "Veracruz", 
-       "distrito_cricunscripcion": "Circ. 3",
+       "distrito_circunscripcion": "Circ. 3",
        "partido": "pan" 
        },
        {
@@ -419,7 +419,7 @@
        "apellidoMaterno": "Ling", 
        "nombre": "Guillermo Octavio", 
        "entidad": "Ciudad de México", 
-       "distrito_cricunscripcion": "Circ. 4",
+       "distrito_circunscripcion": "Circ. 4",
        "partido": "pan" 
        },
        {
@@ -428,7 +428,7 @@
        "apellidoMaterno": "Villegas", 
        "nombre": "Genoveva", 
        "entidad": "Puebla", 
-       "distrito_cricunscripcion": "Circ. 4",
+       "distrito_circunscripcion": "Circ. 4",
        "partido": "pan" 
        },
        {
@@ -437,7 +437,7 @@
        "apellidoMaterno": "Armas", 
        "nombre": "Jorge Ernesto", 
        "entidad": "México", 
-       "distrito_cricunscripcion": "Circ. 5",
+       "distrito_circunscripcion": "Circ. 5",
        "partido": "pan" 
        },
        {
@@ -446,7 +446,7 @@
        "apellidoMaterno": "Angulo", 
        "nombre": "Julia Licet", 
        "entidad": "Colima", 
-       "distrito_cricunscripcion": "Circ. 5",
+       "distrito_circunscripcion": "Circ. 5",
        "partido": "pan" 
        },
        {
@@ -455,7 +455,7 @@
        "apellidoMaterno": "Navarrete", 
        "nombre": "Berenice", 
        "entidad": "Michoacán", 
-       "distrito_cricunscripcion": "Dtto. 6",
+       "distrito_circunscripcion": "Dtto. 6",
        "partido": "pan" 
        },
        {
@@ -464,7 +464,7 @@
        "apellidoMaterno": "Carreón", 
        "nombre": "Diana María Teresa", 
        "entidad": "Ciudad de México", 
-       "distrito_cricunscripcion": "Dtto. 6",
+       "distrito_circunscripcion": "Dtto. 6",
        "partido": "pan" 
        },
        {
@@ -473,7 +473,7 @@
        "apellidoMaterno": "Abimerhi", 
        "nombre": "José Elías", 
        "entidad": "Yucatán", 
-       "distrito_cricunscripcion": "Circ. 3",
+       "distrito_circunscripcion": "Circ. 3",
        "partido": "pan" 
        },
        {
@@ -482,7 +482,7 @@
        "apellidoMaterno": "Sosa", 
        "nombre": "Mariela", 
        "entidad": "Tamaulipas", 
-       "distrito_cricunscripcion": "Circ. 2",
+       "distrito_circunscripcion": "Circ. 2",
        "partido": "pan" 
        },
        {
@@ -491,7 +491,7 @@
        "apellidoMaterno": "Vera", 
        "nombre": "Ignacio", 
        "entidad": "Querétaro", 
-       "distrito_cricunscripcion": "Dtto. 3",
+       "distrito_circunscripcion": "Dtto. 3",
        "partido": "pan" 
        },
        {
@@ -500,7 +500,7 @@
        "apellidoMaterno": "Ayala", 
        "nombre": "Noemí Berenice", 
        "entidad": "Zacatecas", 
-       "distrito_cricunscripcion": "Circ. 2",
+       "distrito_circunscripcion": "Circ. 2",
        "partido": "pan" 
        },
        {
@@ -509,7 +509,7 @@
        "apellidoMaterno": "Olvera", 
        "nombre": "Felipe Fernando", 
        "entidad": "Querétaro", 
-       "distrito_cricunscripcion": "Dtto. 4",
+       "distrito_circunscripcion": "Dtto. 4",
        "partido": "pan" 
        },
        {
@@ -518,7 +518,7 @@
        "apellidoMaterno": "Zambrano", 
        "nombre": "Gustavo", 
        "entidad": "Jalisco", 
-       "distrito_cricunscripcion": "Dtto. 1",
+       "distrito_circunscripcion": "Dtto. 1",
        "partido": "pan" 
        },
        {
@@ -527,7 +527,7 @@
        "apellidoMaterno": "Limón", 
        "nombre": "Carlos", 
        "entidad": "México", 
-       "distrito_cricunscripcion": "Dtto. 15",
+       "distrito_circunscripcion": "Dtto. 15",
        "partido": "pan" 
        },
        {
@@ -536,7 +536,7 @@
        "apellidoMaterno": "Tinajero", 
        "nombre": "Esther", 
        "entidad": "Guanajuato", 
-       "distrito_cricunscripcion": "Dtto. 14",
+       "distrito_circunscripcion": "Dtto. 14",
        "partido": "pan" 
        },
        {
@@ -545,7 +545,7 @@
        "apellidoMaterno": "López", 
        "nombre": "Paulo Gonzalo", 
        "entidad": "Aguascalientes", 
-       "distrito_cricunscripcion": "Dtto. 3",
+       "distrito_circunscripcion": "Dtto. 3",
        "partido": "pan" 
        },
        {
@@ -554,7 +554,7 @@
        "apellidoMaterno": "Atilano", 
        "nombre": "Noel", 
        "entidad": "Aguascalientes", 
-       "distrito_cricunscripcion": "Dtto. 1",
+       "distrito_circunscripcion": "Dtto. 1",
        "partido": "pan" 
        },
        {
@@ -563,7 +563,7 @@
        "apellidoMaterno": "Carrasco", 
        "nombre": "Mario", 
        "entidad": "Chihuahua", 
-       "distrito_cricunscripcion": "Dtto. 5",
+       "distrito_circunscripcion": "Dtto. 5",
        "partido": "pan" 
        },
        {
@@ -572,7 +572,7 @@
        "apellidoMaterno": "Lozano", 
        "nombre": "Lizbeth", 
        "entidad": "Baja California", 
-       "distrito_cricunscripcion": "Circ. 1",
+       "distrito_circunscripcion": "Circ. 1",
        "partido": "pan" 
        },
        {
@@ -581,7 +581,7 @@
        "apellidoMaterno": "Manzanera", 
        "nombre": "Juan Carlos", 
        "entidad": "Durango", 
-       "distrito_cricunscripcion": "Circ. 1",
+       "distrito_circunscripcion": "Circ. 1",
        "partido": "pan" 
        },
        {
@@ -590,7 +590,7 @@
        "apellidoMaterno": "Acevedo", 
        "nombre": "Luis Alberto", 
        "entidad": "Ciudad de México", 
-       "distrito_cricunscripcion": "Dtto. 15",
+       "distrito_circunscripcion": "Dtto. 15",
        "partido": "pan" 
        },
        {
@@ -599,7 +599,7 @@
        "apellidoMaterno": "Ibarra", 
        "nombre": "Miguel Ángel", 
        "entidad": "Jalisco", 
-       "distrito_cricunscripcion": "Circ. 1",
+       "distrito_circunscripcion": "Circ. 1",
        "partido": "pan" 
        },
        {
@@ -608,7 +608,7 @@
        "apellidoMaterno": "Estrada", 
        "nombre": "Berenice", 
        "entidad": "Guanajuato", 
-       "distrito_cricunscripcion": "Dtto. 1",
+       "distrito_circunscripcion": "Dtto. 1",
        "partido": "pan" 
        },
        {
@@ -617,7 +617,7 @@
        "apellidoMaterno": "Flores", 
        "nombre": "Jesús Fernando", 
        "entidad": "Sonora", 
-       "distrito_cricunscripcion": "Circ. 1",
+       "distrito_circunscripcion": "Circ. 1",
        "partido": "pan" 
        },
        {
@@ -626,7 +626,7 @@
        "apellidoMaterno": "Manríquez", 
        "nombre": "Sonia", 
        "entidad": "Baja California Sur", 
-       "distrito_cricunscripcion": "Circ. 1",
+       "distrito_circunscripcion": "Circ. 1",
        "partido": "pan" 
        },
        {
@@ -635,7 +635,7 @@
        "apellidoMaterno": "Cerón", 
        "nombre": "Sarai", 
        "entidad": "Guanajuato", 
-       "distrito_cricunscripcion": "Dtto. 12",
+       "distrito_circunscripcion": "Dtto. 12",
        "partido": "pan" 
        },
        {
@@ -644,7 +644,7 @@
        "apellidoMaterno": "Coronel", 
        "nombre": "Lilia Caritina", 
        "entidad": "Tlaxcala", 
-       "distrito_cricunscripcion": "Circ. 4",
+       "distrito_circunscripcion": "Circ. 4",
        "partido": "pan" 
        },
        {
@@ -653,7 +653,7 @@
        "apellidoMaterno": "Higuera", 
        "nombre": "Claudia Gabriela", 
        "entidad": "México", 
-       "distrito_cricunscripcion": "Dtto. 24",
+       "distrito_circunscripcion": "Dtto. 24",
        "partido": "pan" 
        },
        {
@@ -662,7 +662,7 @@
        "apellidoMaterno": "Aguirre", 
        "nombre": "Nora Elva", 
        "entidad": "Coahuila", 
-       "distrito_cricunscripcion": "Circ. 2",
+       "distrito_circunscripcion": "Circ. 2",
        "partido": "pan" 
        },
        {
@@ -671,7 +671,7 @@
        "apellidoMaterno": "Marrufo", 
        "nombre": "Rommel Aghmed", 
        "entidad": "Yucatán", 
-       "distrito_cricunscripcion": "Dtto. 3",
+       "distrito_circunscripcion": "Dtto. 3",
        "partido": "pan" 
        },
        {
@@ -680,7 +680,7 @@
        "apellidoMaterno": "Laviada", 
        "nombre": "Cecilia Anunciación", 
        "entidad": "Yucatán", 
-       "distrito_cricunscripcion": "Dtto. 4",
+       "distrito_circunscripcion": "Dtto. 4",
        "partido": "pan" 
        },
        {
@@ -689,7 +689,7 @@
        "apellidoMaterno": "Díaz", 
        "nombre": "Víctor Manuel", 
        "entidad": "Nuevo León", 
-       "distrito_cricunscripcion": "Circ. 2",
+       "distrito_circunscripcion": "Circ. 2",
        "partido": "pan" 
        },
        {
@@ -698,7 +698,7 @@
        "apellidoMaterno": "Zermeño", 
        "nombre": "María Elena", 
        "entidad": "Aguascalientes", 
-       "distrito_cricunscripcion": "Circ. 2",
+       "distrito_circunscripcion": "Circ. 2",
        "partido": "pan" 
        },
        {
@@ -707,7 +707,7 @@
        "apellidoMaterno": "de la Torre", 
        "nombre": "Gabriel Ricardo", 
        "entidad": "Ciudad de México", 
-       "distrito_cricunscripcion": "Dtto. 23",
+       "distrito_circunscripcion": "Dtto. 23",
        "partido": "pan" 
        },
        {
@@ -716,7 +716,7 @@
        "apellidoMaterno": "Martínez", 
        "nombre": "Carlos Humberto", 
        "entidad": "Michoacán", 
-       "distrito_cricunscripcion": "Dtto. 10",
+       "distrito_circunscripcion": "Dtto. 10",
        "partido": "pan" 
        },
        {
@@ -725,7 +725,7 @@
        "apellidoMaterno": "Barba", 
        "nombre": "Éctor", 
        "entidad": "Jaime", 
-       "distrito_cricunscripcion": "Dtto. 5",
+       "distrito_circunscripcion": "Dtto. 5",
        "partido": "pan" 
        },
        {
@@ -734,7 +734,7 @@
        "apellidoMaterno": "García", 
        "nombre": "César Augusto", 
        "entidad": "Tamaulipas", 
-       "distrito_cricunscripcion": "Circ. 2",
+       "distrito_circunscripcion": "Circ. 2",
        "partido": "pan" 
        },
        {
@@ -743,7 +743,7 @@
        "apellidoMaterno": "Gallegos", 
        "nombre": "Rocío", 
        "entidad": "Chihuahua", 
-       "distrito_cricunscripcion": "Circ. 1",
+       "distrito_circunscripcion": "Circ. 1",
        "partido": "pan" 
        },
        {
@@ -752,7 +752,7 @@
        "apellidoMaterno": "Piña", 
        "nombre": "Mario Gerardo", 
        "entidad": "Puebla", 
-       "distrito_cricunscripcion": "Dtto. 12",
+       "distrito_circunscripcion": "Dtto. 12",
        "partido": "pan" 
        },
        {
@@ -761,7 +761,7 @@
        "apellidoMaterno": "Gutiérrez", 
        "nombre": "Riult", 
        "entidad": "Colima", 
-       "distrito_cricunscripcion": "Dtto. 1",
+       "distrito_circunscripcion": "Dtto. 1",
        "partido": "pan" 
        },
        {
@@ -770,7 +770,7 @@
        "apellidoMaterno": "Acosta", 
        "nombre": "Sonia", 
        "entidad": "Querétaro", 
-       "distrito_cricunscripcion": "Dtto. 1",
+       "distrito_circunscripcion": "Dtto. 1",
        "partido": "pan" 
        },
        {
@@ -779,7 +779,7 @@
        "apellidoMaterno": "Rivera", 
        "nombre": "Iván Arturo", 
        "entidad": "México", 
-       "distrito_cricunscripcion": "Dtto. 22",
+       "distrito_circunscripcion": "Dtto. 22",
        "partido": "pan" 
        },
        {
@@ -788,7 +788,7 @@
        "apellidoMaterno": "Herrera", 
        "nombre": "Jorge", 
        "entidad": "Ciudad de México", 
-       "distrito_cricunscripcion": "Circ. 4",
+       "distrito_circunscripcion": "Circ. 4",
        "partido": "pan" 
        },
        {
@@ -797,7 +797,7 @@
        "apellidoMaterno": "Hicks", 
        "nombre": "Juan Carlos", 
        "entidad": "Guanajuato", 
-       "distrito_cricunscripcion": "Dtto. 4",
+       "distrito_circunscripcion": "Dtto. 4",
        "partido": "pan" 
        },
        {
@@ -806,7 +806,7 @@
        "apellidoMaterno": "Velázquez", 
        "nombre": "Krishna Karina", 
        "entidad": "México", 
-       "distrito_cricunscripcion": "Dtto. 19",
+       "distrito_circunscripcion": "Dtto. 19",
        "partido": "pan" 
        },
        {
@@ -815,7 +815,7 @@
        "apellidoMaterno": "Cuéllar", 
        "nombre": "Martha Estela", 
        "entidad": "Jalisco", 
-       "distrito_cricunscripcion": "Dtto. 2",
+       "distrito_circunscripcion": "Dtto. 2",
        "partido": "pan" 
        },
        {
@@ -824,7 +824,7 @@
        "apellidoMaterno": "Fernández", 
        "nombre": "Paulina", 
        "entidad": "Jalisco", 
-       "distrito_cricunscripcion": "Circ. 1",
+       "distrito_circunscripcion": "Circ. 1",
        "partido": "pan" 
        },
        {
@@ -833,7 +833,7 @@
        "apellidoMaterno": "Almaguer", 
        "nombre": "Pedro", 
        "entidad": "Nuevo León", 
-       "distrito_cricunscripcion": "Dtto. 4",
+       "distrito_circunscripcion": "Dtto. 4",
        "partido": "pan" 
        },
        {
@@ -842,7 +842,7 @@
        "apellidoMaterno": "Velázquez", 
        "nombre": "Ana Laura", 
        "entidad": "Jalisco", 
-       "distrito_cricunscripcion": "Dtto. 15",
+       "distrito_circunscripcion": "Dtto. 15",
        "partido": "pan" 
        },
        {
@@ -851,7 +851,7 @@
        "apellidoMaterno": "Zepeda", 
        "nombre": "Rodrigo", 
        "entidad": "Michoacán", 
-       "distrito_cricunscripcion": "Dtto. 4",
+       "distrito_circunscripcion": "Dtto. 4",
        "partido": "pan" 
        },
        {
@@ -860,7 +860,7 @@
        "apellidoMaterno": "Gallego", 
        "nombre": "Marcia", 
        "entidad": "Querétaro", 
-       "distrito_cricunscripcion": "Dtto. 2",
+       "distrito_circunscripcion": "Dtto. 2",
        "partido": "pan" 
        },
        {
@@ -869,7 +869,7 @@
        "apellidoMaterno": "Cid", 
        "nombre": "Armando", 
        "entidad": "Michoacán", 
-       "distrito_cricunscripcion": "Circ. 5",
+       "distrito_circunscripcion": "Circ. 5",
        "partido": "pan" 
        },
        {
@@ -878,7 +878,7 @@
        "apellidoMaterno": "Hernández", 
        "nombre": "Héctor Saúl", 
        "entidad": "Ciudad de México", 
-       "distrito_cricunscripcion": "Dtto. 24",
+       "distrito_circunscripcion": "Dtto. 24",
        "partido": "pan" 
        },
        {
@@ -887,7 +887,7 @@
        "apellidoMaterno": "Baca", 
        "nombre": "Patricia", 
        "entidad": "Chihuahua", 
-       "distrito_cricunscripcion": "Dtto. 7",
+       "distrito_circunscripcion": "Dtto. 7",
        "partido": "pan" 
        },
        {
@@ -896,7 +896,7 @@
        "apellidoMaterno": "Robles", 
        "nombre": "Desiderio", 
        "entidad": "Jalisco", 
-       "distrito_cricunscripcion": "Dtto. 3",
+       "distrito_circunscripcion": "Dtto. 3",
        "partido": "pan" 
        },
        {
@@ -905,7 +905,7 @@
        "apellidoMaterno": "Engell", 
        "nombre": "Santiago", 
        "entidad": "Ciudad de México", 
-       "distrito_cricunscripcion": "Circ. 4",
+       "distrito_circunscripcion": "Circ. 4",
        "partido": "pan" 
        },
        {
@@ -914,7 +914,7 @@
        "apellidoMaterno": "Ajuria", 
        "nombre": "Herminio", 
        "entidad": "Guanajuato", 
-       "distrito_cricunscripcion": "Dtto. 8",
+       "distrito_circunscripcion": "Dtto. 8",
        "partido": "pan" 
        },
        {
@@ -923,7 +923,7 @@
        "apellidoMaterno": "Graciano", 
        "nombre": "Fernando", 
        "entidad": "Guanajuato", 
-       "distrito_cricunscripcion": "Dtto. 3",
+       "distrito_circunscripcion": "Dtto. 3",
        "partido": "pan" 
        },
        {
@@ -932,7 +932,7 @@
        "apellidoMaterno": "Vargas", 
        "nombre": "José Salvador", 
        "entidad": "Guanajuato", 
-       "distrito_cricunscripcion": "Dtto. 9",
+       "distrito_circunscripcion": "Dtto. 9",
        "partido": "pan" 
        },
        {
@@ -941,7 +941,7 @@
        "apellidoMaterno": "Tena", 
        "nombre": "Jorge", 
        "entidad": "Ciudad de México", 
-       "distrito_cricunscripcion": "Dtto. 17",
+       "distrito_circunscripcion": "Dtto. 17",
        "partido": "pan" 
        },
        {
@@ -950,7 +950,7 @@
        "apellidoMaterno": "González", 
        "nombre": "Carlos Alberto", 
        "entidad": "Veracruz", 
-       "distrito_cricunscripcion": "Circ. 3",
+       "distrito_circunscripcion": "Circ. 3",
        "partido": "pan" 
        },
        {
@@ -959,7 +959,7 @@
        "apellidoMaterno": "Sánchez", 
        "nombre": "Ana Laura", 
        "entidad": "Ciudad de México", 
-       "distrito_cricunscripcion": "Circ. 4",
+       "distrito_circunscripcion": "Circ. 4",
        "partido": "pan" 
        },
        {
@@ -968,7 +968,7 @@
        "apellidoMaterno": "Pinedo", 
        "nombre": "Miguel Ángel", 
        "entidad": "Zacatecas", 
-       "distrito_cricunscripcion": "Dtto. 2",
+       "distrito_circunscripcion": "Dtto. 2",
        "partido": "pan" 
        },
        {
@@ -977,7 +977,7 @@
        "apellidoMaterno": "Ostos", 
        "nombre": "Vicente Javier", 
        "entidad": "Tamaulipas", 
-       "distrito_cricunscripcion": "Dtto. 6",
+       "distrito_circunscripcion": "Dtto. 6",
        "partido": "pan" 
        },
        {
@@ -986,7 +986,7 @@
        "apellidoMaterno": "Elizondo", 
        "nombre": "Yolanda", 
        "entidad": "Nuevo León", 
-       "distrito_cricunscripcion": "Circ. 2",
+       "distrito_circunscripcion": "Circ. 2",
        "partido": "pan" 
        },
        {
@@ -995,7 +995,7 @@
        "apellidoMaterno": "García", 
        "nombre": "Ricardo", 
        "entidad": "Guanajuato", 
-       "distrito_cricunscripcion": "Dtto. 2",
+       "distrito_circunscripcion": "Dtto. 2",
        "partido": "pan" 
        },
        {
@@ -1004,7 +1004,7 @@
        "apellidoMaterno": "Meraz", 
        "nombre": "José Antonio", 
        "entidad": "San Luis Potosí", 
-       "distrito_cricunscripcion": "Dtto. 5",
+       "distrito_circunscripcion": "Dtto. 5",
        "partido": "pan" 
        },
        {
@@ -1013,7 +1013,7 @@
        "apellidoMaterno": "Gómez el Campo", 
        "nombre": "Margarita Esther", 
        "entidad": "Ciudad de México", 
-       "distrito_cricunscripcion": "Dtto. 10",
+       "distrito_circunscripcion": "Dtto. 10",
        "partido": "pan" 
        },
        {
@@ -1022,7 +1022,7 @@
        "apellidoMaterno": "Martínez", 
        "nombre": "Leticia", 
        "entidad": "México", 
-       "distrito_cricunscripcion": "Circ. 5",
+       "distrito_circunscripcion": "Circ. 5",
        "partido": "pan" 
        }   
 ]
