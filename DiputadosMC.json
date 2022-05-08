@@ -15,7 +15,7 @@
        "nombre": "Jorge", 
        "entidad": "Jalisco", 
        "distrito_circunscripcion": "Circ. 1",
-       "partido": "mc" 
+       "partido": "Movimiento Ciudadano" 
        },
        {
         "número": 2, 
@@ -24,7 +24,7 @@
        "nombre": "María Asunción", 
        "entidad": "Jalisco", 
        "distrito_circunscripcion": "Dtto. 12",
-       "partido": "mc" 
+       "partido": "Movimiento Ciudadano" 
        },
        {
         "número": 3, 
@@ -33,7 +33,7 @@
        "nombre": "María del Rocío", 
        "entidad": "Ciudad de México", 
        "distrito_circunscripcion": "Dtto. 14",
-       "partido": "mc" 
+       "partido": "Movimiento Ciudadano" 
        },
        {
         "número": 4, 
@@ -42,7 +42,7 @@
        "nombre": "Sergio", 
        "entidad": "Jalisco", 
        "distrito_circunscripcion": "Dtto. 13",
-       "partido": "mc" 
+       "partido": "Movimiento Ciudadano" 
        },
        {
         "número": 5, 
@@ -51,7 +51,7 @@
        "nombre": "Agustín Carlos", 
        "entidad": "Nuevo León", 
        "distrito_circunscripcion": "Circ. 2",
-       "partido": "mc" 
+       "partido": "Movimiento Ciudadano" 
        },
        {
         "número": 6, 
@@ -60,7 +60,7 @@
        "nombre": "Salvador", 
        "entidad": "Jalisco", 
        "distrito_circunscripcion": "Circ. 1",
-       "partido": "mc" 
+       "partido": "Movimiento Ciudadano" 
        },
        {
         "número": 7, 
@@ -69,7 +69,7 @@
        "nombre": "María Leticia", 
        "entidad": "Jalisco", 
        "distrito_circunscripcion": "Dtto. 14",
-       "partido": "mc" 
+       "partido": "Movimiento Ciudadano" 
        },
        {
         "número": 8, 
@@ -78,7 +78,7 @@
        "nombre": "Salomón", 
        "entidad": "Ciudad de México", 
        "distrito_circunscripcion": "Circ. 4",
-       "partido": "mc" 
+       "partido": "Movimiento Ciudadano" 
        },
        {
         "número": 9, 
@@ -87,7 +87,7 @@
        "nombre": "Arturo Bonifacio", 
        "entidad": "Nuevo León", 
        "distrito_circunscripcion": "Circ. 2",
-       "partido": "mc" 
+       "partido": "Movimiento Ciudadano" 
        },
        {
         "número": 10, 
@@ -96,7 +96,7 @@
        "nombre": "Horacio", 
        "entidad": "Jalisco", 
        "distrito_circunscripcion": "Dtto. 10",
-       "partido": "mc" 
+       "partido": "Movimiento Ciudadano" 
        },
        {
         "número": 11, 
@@ -105,7 +105,7 @@
        "nombre": "Mirza", 
        "entidad": "Jalisco", 
        "distrito_circunscripcion": "Circ. 1",
-       "partido": "mc" 
+       "partido": "Movimiento Ciudadano" 
        },
        {
         "número": 12, 
@@ -114,7 +114,7 @@
        "nombre": "Amalia Dolores", 
        "entidad": "Zacatecas", 
        "distrito_circunscripcion": "Circ. 2",
-       "partido": "mc" 
+       "partido": "Movimiento Ciudadano" 
        },
        {
         "número": 13, 
@@ -123,7 +123,7 @@
        "nombre": "José Mauro", 
        "entidad": "Jalisco", 
        "distrito_circunscripcion": "Dtto. 8",
-       "partido": "mc" 
+       "partido": "Movimiento Ciudadano" 
        },
        {
         "número": 14, 
@@ -132,7 +132,7 @@
        "nombre": "Gerardo", 
        "entidad": "Tabasco", 
        "distrito_circunscripcion": "Circ. 3",
-       "partido": "mc" 
+       "partido": "Movimiento Ciudadano" 
        },
        {
         "número": 15, 
@@ -141,7 +141,7 @@
        "nombre": "Manuel Jesús", 
        "entidad": "Jalisco", 
        "distrito_circunscripcion": "Dtto. 6",
-       "partido": "mc" 
+       "partido": "Movimiento Ciudadano" 
        },
        {
         "número": 16, 
@@ -150,7 +150,7 @@
        "nombre": "María Elena", 
        "entidad": "Jalisco", 
        "distrito_circunscripcion": "Circ. 1",
-       "partido": "mc" 
+       "partido": "Movimiento Ciudadano" 
        },
        {
         "número": 17, 
@@ -159,7 +159,7 @@
        "nombre": "Elvia Yolanda", 
        "entidad": "Jalisco", 
        "distrito_circunscripcion": "Circ. 1",
-       "partido": "mc" 
+       "partido": "Movimiento Ciudadano" 
        },
        {
         "número": 18, 
@@ -168,7 +168,7 @@
        "nombre": "Julieta", 
        "entidad": "Nayarit", 
        "distrito_circunscripcion": "Circ. 1",
-       "partido": "mc" 
+       "partido": "Movimiento Ciudadano" 
        },
        {
         "número": 19, 
@@ -177,7 +177,7 @@
        "nombre": "María Teresa Rosaura", 
        "entidad": "México", 
        "distrito_circunscripcion": "Circ. 5",
-       "partido": "mc" 
+       "partido": "Movimiento Ciudadano" 
        },
        {
         "número": 20, 
@@ -186,7 +186,7 @@
        "nombre": "Jessica", 
        "entidad": "Morelos", 
        "distrito_circunscripcion": "Circ. 4",
-       "partido": "mc" 
+       "partido": "Movimiento Ciudadano" 
        },
        {
         "número": 21, 
@@ -195,7 +195,7 @@
        "nombre": "Ivonne Aracelly", 
        "entidad": "Yucatán", 
        "distrito_circunscripcion": "Circ. 3",
-       "partido": "mc" 
+       "partido": "Movimiento Ciudadano" 
        },
        {
         "número": 22, 
@@ -204,7 +204,7 @@
        "nombre": "Andrés", 
        "entidad": "Nuevo León", 
        "distrito_circunscripcion": "Dtto. 7",
-       "partido": "mc" 
+       "partido": "Movimiento Ciudadano" 
        },
        {
         "número": 23, 
@@ -213,7 +213,7 @@
        "nombre": "Mario Alberto", 
        "entidad": "Jalisco", 
        "distrito_circunscripcion": "Circ. 1",
-       "partido": "mc" 
+       "partido": "Movimiento Ciudadano" 
        },
        {
         "número": 24, 
@@ -222,7 +222,7 @@
        "nombre": "Taygete Irisay", 
        "entidad": "Jalisco", 
        "distrito_circunscripcion": "Dtto. 4",
-       "partido": "mc" 
+       "partido": "Movimiento Ciudadano" 
        },
        {
         "número": 25, 
@@ -231,6 +231,6 @@
        "nombre": "Rodrigo Herminio", 
        "entidad": "México", 
        "distrito_circunscripcion": "Circ. 5",
-       "partido": "mc" 
+       "partido": "Movimiento Ciudadano" 
        }
 ]

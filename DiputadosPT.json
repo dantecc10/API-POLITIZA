@@ -15,7 +15,7 @@
        "nombre": "Lilia", 
        "entidad": "Chihuahua", 
        "distrito_circunscripcion": "Dtto. 3",
-       "partido": "pt" 
+       "partido": "Partido del Trabajo" 
        },
        {
         "número": 2, 
@@ -24,7 +24,7 @@
        "nombre": "José Alejandro", 
        "entidad": "Tlaxcala", 
        "distrito_circunscripcion": "Dtto. 1",
-       "partido": "pt" 
+       "partido": "Partido del Trabajo" 
        },
        {
         "número": 3, 
@@ -33,7 +33,7 @@
        "nombre": "Leobardo", 
        "entidad": "Sinaloa", 
        "distrito_circunscripcion": "Dtto. 1",
-       "partido": "pt" 
+       "partido": "Partido del Trabajo" 
        },
        {
         "número": 4, 
@@ -42,7 +42,7 @@
        "nombre": "Alberto", 
        "entidad": "Nuevo León", 
        "distrito_circunscripcion": "Circ. 2",
-       "partido": "pt" 
+       "partido": "Partido del Trabajo" 
        },
        {
         "número": 5, 
@@ -51,7 +51,7 @@
        "nombre": "Jaime", 
        "entidad": "Puebla", 
        "distrito_circunscripcion": "Dtto. 5",
-       "partido": "pt" 
+       "partido": "Partido del Trabajo" 
        },
        {
         "número": 6, 
@@ -60,7 +60,7 @@
        "nombre": "Ana Laura", 
        "entidad": "Sonora", 
        "distrito_circunscripcion": "Dtto. 2",
-       "partido": "pt" 
+       "partido": "Partido del Trabajo" 
        },
        {
         "número": 7, 
@@ -69,7 +69,7 @@
        "nombre": "Mary Carmen", 
        "entidad": "Michoacán", 
        "distrito_circunscripcion": "Dtto. 3",
-       "partido": "pt" 
+       "partido": "Partido del Trabajo" 
        },
        {
         "número": 8, 
@@ -78,7 +78,7 @@
        "nombre": "Araceli", 
        "entidad": "Puebla", 
        "distrito_circunscripcion": "Dtto. 15",
-       "partido": "pt" 
+       "partido": "Partido del Trabajo" 
        },
        {
         "número": 9, 
@@ -87,7 +87,7 @@
        "nombre": "Francisco Amadeo", 
        "entidad": "Chiapas", 
        "distrito_circunscripcion": "Circ. 3",
-       "partido": "pt" 
+       "partido": "Partido del Trabajo" 
        },
        {
         "número": 10, 
@@ -96,7 +96,7 @@
        "nombre": "Francisco", 
        "entidad": "México", 
        "distrito_circunscripcion": "Dtto. 5",
-       "partido": "pt" 
+       "partido": "Partido del Trabajo" 
        },
        {
         "número": 11, 
@@ -105,7 +105,7 @@
        "nombre": "Alfredo", 
        "entidad": "Zacatecas", 
        "distrito_circunscripcion": "Dtto. 3",
-       "partido": "pt" 
+       "partido": "Partido del Trabajo" 
        },
        {
         "número": 12, 
@@ -114,7 +114,7 @@
        "nombre": "José Gerardo Rodolfo", 
        "entidad": "Ciudad de México", 
        "distrito_circunscripcion": "Dtto. 4",
-       "partido": "pt" 
+       "partido": "Partido del Trabajo" 
        },
        {
         "número": 13, 
@@ -123,7 +123,7 @@
        "nombre": "Irma Yordana", 
        "entidad": "Tlaxcala", 
        "distrito_circunscripcion": "Dtto. 2",
-       "partido": "pt" 
+       "partido": "Partido del Trabajo" 
        },
        {
         "número": 14, 
@@ -132,7 +132,7 @@
        "nombre": "Margarita", 
        "entidad": "Oaxaca", 
        "distrito_circunscripcion": "Dtto. 3",
-       "partido": "pt" 
+       "partido": "Partido del Trabajo" 
        },
        {
         "número": 15, 
@@ -141,7 +141,7 @@
        "nombre": "Jesús Fernando", 
        "entidad": "Sinaloa", 
        "distrito_circunscripcion": "Dtto. 3",
-       "partido": "pt" 
+       "partido": "Partido del Trabajo" 
        },
        {
         "número": 16, 
@@ -150,7 +150,7 @@
        "nombre": "Marisela", 
        "entidad": "México", 
        "distrito_circunscripcion": "Dtto. 16",
-       "partido": "pt" 
+       "partido": "Partido del Trabajo" 
        },
        {
         "número": 17, 
@@ -159,7 +159,7 @@
        "nombre": "Nelly", 
        "entidad": "Puebla", 
        "distrito_circunscripcion": "Dtto. 14",
-       "partido": "pt" 
+       "partido": "Partido del Trabajo" 
        },
        {
         "número": 18, 
@@ -168,7 +168,7 @@
        "nombre": "Esther", 
        "entidad": "Puebla", 
        "distrito_circunscripcion": "Dtto. 3",
-       "partido": "pt" 
+       "partido": "Partido del Trabajo" 
        },
        {
         "número": 19, 
@@ -177,7 +177,7 @@
        "nombre": "Maribel", 
        "entidad": "Oaxaca", 
        "distrito_circunscripcion": "Circ. 3",
-       "partido": "pt" 
+       "partido": "Partido del Trabajo" 
        },
        {
         "número": 20, 
@@ -186,7 +186,7 @@
        "nombre": "Luis Enrique", 
        "entidad": "México", 
        "distrito_circunscripcion": "Dtto. 32",
-       "partido": "pt" 
+       "partido": "Partido del Trabajo" 
        },
        {
         "número": 21, 
@@ -195,7 +195,7 @@
        "nombre": "Brígido Ramiro", 
        "entidad": "Coahuila", 
        "distrito_circunscripcion": "Dtto. 1",
-       "partido": "pt" 
+       "partido": "Partido del Trabajo" 
        },
        {
         "número": 22, 
@@ -204,7 +204,7 @@
        "nombre": "Magdalena del Socorro", 
        "entidad": "Ciudad de México", 
        "distrito_circunscripcion": "Circ. 4",
-       "partido": "pt" 
+       "partido": "Partido del Trabajo" 
        },
        {
         "número": 23, 
@@ -213,7 +213,7 @@
        "nombre": "Jorge Armando", 
        "entidad": "Nayarit", 
        "distrito_circunscripcion": "Dtto. 3",
-       "partido": "pt" 
+       "partido": "Partido del Trabajo" 
        },
        {
         "número": 24, 
@@ -222,7 +222,7 @@
        "nombre": "María de Jesús", 
        "entidad": "Durango", 
        "distrito_circunscripcion": "Circ. 1",
-       "partido": "pt" 
+       "partido": "Partido del Trabajo" 
        },
        {
         "número": 25, 
@@ -231,7 +231,7 @@
        "nombre": "Armando", 
        "entidad": "Baja California", 
        "distrito_circunscripcion": "Dtto. 3",
-       "partido": "pt" 
+       "partido": "Partido del Trabajo" 
        },
        {
         "número": 26, 
@@ -240,7 +240,7 @@
        "nombre": "Ángel Benjamín", 
        "entidad": "Oaxaca", 
        "distrito_circunscripcion": "Dtto. 8",
-       "partido": "pt" 
+       "partido": "Partido del Trabajo" 
        },
        {
         "número": 27, 
@@ -249,7 +249,7 @@
        "nombre": "Ana Karina", 
        "entidad": "Ciudad de México", 
        "distrito_circunscripcion": "Dtto. 20",
-       "partido": "pt" 
+       "partido": "Partido del Trabajo" 
        },
        {
         "número": 28, 
@@ -258,7 +258,7 @@
        "nombre": "María de Jesús", 
        "entidad": "Ciudad de México", 
        "distrito_circunscripcion": "Dtto. 8",
-       "partido": "pt" 
+       "partido": "Partido del Trabajo" 
        },
        {
         "número": 29, 
@@ -267,7 +267,7 @@
        "nombre": "Reginaldo", 
        "entidad": "Michoacán", 
        "distrito_circunscripcion": "Circ. 5",
-       "partido": "pt" 
+       "partido": "Partido del Trabajo" 
        },
        {
         "número": 30, 
@@ -276,7 +276,7 @@
        "nombre": "Dionicia", 
        "entidad": "México", 
        "distrito_circunscripcion": "Dtto. 2",
-       "partido": "pt" 
+       "partido": "Partido del Trabajo" 
        },
        {
         "número": 31, 
@@ -285,7 +285,7 @@
        "nombre": "Pedro", 
        "entidad": "Ciudad de México", 
        "distrito_circunscripcion": "Circ. 4",
-       "partido": "pt" 
+       "partido": "Partido del Trabajo" 
        },
        {
         "número": 32, 
@@ -294,7 +294,7 @@
        "nombre": "Shirley Guadalupe", 
        "entidad": "Sonora", 
        "distrito_circunscripcion": "Dtto. 7",
-       "partido": "pt" 
+       "partido": "Partido del Trabajo" 
        },
        {
         "número": 33, 
@@ -303,6 +303,6 @@
        "nombre": "Victoriano", 
        "entidad": "Guerrero", 
        "distrito_circunscripcion": "Dtto. 5",
-       "partido": "pt" 
+       "partido": "Partido del Trabajo" 
        }
 ]

@@ -15,7 +15,7 @@
        "nombre": "Marcelino", 
        "entidad": "Ciudad de México", 
        "distrito_circunscripcion": "Dtto. 18",
-       "partido": "prd" 
+       "partido": "Partido de la Revolución Democrática" 
        },
        {
         "número": 2, 
@@ -24,7 +24,7 @@
        "nombre": "María Macarena", 
        "entidad": "Michoacán", 
        "distrito_circunscripcion": "Dtto. 11",
-       "partido": "prd" 
+       "partido": "Partido de la Revolución Democrática" 
        },
        {
         "número": 3, 
@@ -33,7 +33,7 @@
        "nombre": "Héctor", 
        "entidad": "Hidalgo", 
        "distrito_circunscripcion": "Circ. 5",
-       "partido": "prd" 
+       "partido": "Partido de la Revolución Democrática" 
        },
        {
         "número": 4, 
@@ -42,7 +42,7 @@
        "nombre": "Edna Gisel", 
        "entidad": "México", 
        "distrito_circunscripcion": "Circ. 5",
-       "partido": "prd" 
+       "partido": "Partido de la Revolución Democrática" 
        },
        {
         "número": 5, 
@@ -51,7 +51,7 @@
        "nombre": "Luis Ángel Xariel", 
        "entidad": "Ciudad de México", 
        "distrito_circunscripcion": "Circ. 4",
-       "partido": "prd" 
+       "partido": "Partido de la Revolución Democrática" 
        },
        {
         "número": 6, 
@@ -60,7 +60,7 @@
        "nombre": "Olga Luz", 
        "entidad": "Chiapas", 
        "distrito_circunscripcion": "Circ. 3",
-       "partido": "prd" 
+       "partido": "Partido de la Revolución Democrática" 
        },
        {
         "número": 7, 
@@ -69,7 +69,7 @@
        "nombre": "Laura Lynn (Licencia)", 
        "entidad": "Quintana Roo", 
        "distrito_circunscripcion": "Dtto. 4",
-       "partido": "prd" 
+       "partido": "Partido de la Revolución Democrática" 
        },
        {
         "número": 8, 
@@ -78,7 +78,7 @@
        "nombre": "Francisco Javier", 
        "entidad": "Michoacán", 
        "distrito_circunscripcion": "Dtto. 12",
-       "partido": "prd" 
+       "partido": "Partido de la Revolución Democrática" 
        },
        {
         "número": 9, 
@@ -87,7 +87,7 @@
        "nombre": "Elizabeth", 
        "entidad": "Ciudad de México", 
        "distrito_circunscripcion": "Circ. 4",
-       "partido": "prd" 
+       "partido": "Partido de la Revolución Democrática" 
        },
        {
         "número": 10, 
@@ -96,7 +96,7 @@
        "nombre": "Mauricio", 
        "entidad": "Michoacán", 
        "distrito_circunscripcion": "Dtto. 2",
-       "partido": "prd" 
+       "partido": "Partido de la Revolución Democrática" 
        },
        {
         "número": 11, 
@@ -105,7 +105,7 @@
        "nombre": "Fabiola", 
        "entidad": "Guerrero", 
        "distrito_circunscripcion": "Dtto. 6",
-       "partido": "prd" 
+       "partido": "Partido de la Revolución Democrática" 
        },
        {
         "número": 12, 
@@ -114,7 +114,7 @@
        "nombre": "Leslie Estefanía", 
        "entidad": "Baja California", 
        "distrito_circunscripcion": "Circ. 1",
-       "partido": "prd" 
+       "partido": "Partido de la Revolución Democrática" 
        },
        {
         "número": 13, 
@@ -123,7 +123,7 @@
        "nombre": "Ana Cecilia Luisa Gabriela Fernanda", 
        "entidad": "Ciudad de México", 
        "distrito_circunscripcion": "Dtto. 12",
-       "partido": "prd" 
+       "partido": "Partido de la Revolución Democrática" 
        },
        {
         "número": 14, 
@@ -132,7 +132,7 @@
        "nombre": "Miguel Ángel", 
        "entidad": "Zacatecas", 
        "distrito_circunscripcion": "Circ. 2",
-       "partido": "prd" 
+       "partido": "Partido de la Revolución Democrática" 
        },
        {
         "número": 15, 
@@ -141,6 +141,6 @@
        "nombre": "Jesús Alberto", 
        "entidad": "Veracruz", 
        "distrito_circunscripcion": "Circ. 3",
-       "partido": "prd" 
+       "partido": "Partido de la Revolución Democrática" 
        }
 ]

@@ -15,7 +15,7 @@
        "nombre": "Paulina", 
        "entidad": "Querétaro", 
        "distrito_circunscripcion": "Circ. 2",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 2, 
@@ -24,7 +24,7 @@
        "nombre": "Marco Humberto", 
        "entidad": "Puebla", 
        "distrito_circunscripcion": "Dtto. 10",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 3, 
@@ -33,7 +33,7 @@
        "nombre": "Óscar de Jesús", 
        "entidad": "Tamaulipas", 
        "distrito_circunscripcion": "Dtto. 5",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 4, 
@@ -42,7 +42,7 @@
        "nombre": "Marco Antonio", 
        "entidad": "Baja California Sur", 
        "distrito_circunscripcion": "Dtto. 1",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 5, 
@@ -51,7 +51,7 @@
        "nombre": "Daniela Soraya", 
        "entidad": "Chihuahua", 
        "distrito_circunscripcion": "Dtto. 4",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 6, 
@@ -60,7 +60,7 @@
        "nombre": "Ana Teresa", 
        "entidad": "Puebla", 
        "distrito_circunscripcion": "Dtto. 9",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 7, 
@@ -69,7 +69,7 @@
        "nombre": "Anuar Roberto", 
        "entidad": "México", 
        "distrito_circunscripcion": "Circ. 5",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 8, 
@@ -78,7 +78,7 @@
        "nombre": "Xavier", 
        "entidad": "San Luis Potosí", 
        "distrito_circunscripcion": "Circ. 2",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 9, 
@@ -87,7 +87,7 @@
        "nombre": "José Luis", 
        "entidad": "Querétaro", 
        "distrito_circunscripcion": "Circ. 2",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 10, 
@@ -96,7 +96,7 @@
        "nombre": "Itzel Josefina", 
        "entidad": "Guanajuato", 
        "distrito_circunscripcion": "Dtto. 15",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 11, 
@@ -105,7 +105,7 @@
        "nombre": "Ana María", 
        "entidad": "México", 
        "distrito_circunscripcion": "Dtto. 14",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 12, 
@@ -114,7 +114,7 @@
        "nombre": "Carolina", 
        "entidad": "Puebla", 
        "distrito_circunscripcion": "Dtto. 11",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 13, 
@@ -123,7 +123,7 @@
        "nombre": "Mónica", 
        "entidad": "Aguascalientes", 
        "distrito_circunscripcion": "Dtto. 2",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 14, 
@@ -132,7 +132,7 @@
        "nombre": "Kathia María", 
        "entidad": "Yucatán", 
        "distrito_circunscripcion": "Circ. 3",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 15, 
@@ -141,7 +141,7 @@
        "nombre": "Gina Gerardina", 
        "entidad": "Durango", 
        "distrito_circunscripcion": "Dtto. 4",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 16, 
@@ -150,7 +150,7 @@
        "nombre": "María Teresa", 
        "entidad": "México", 
        "distrito_circunscripcion": "Dtto. 34",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 17, 
@@ -159,7 +159,7 @@
        "nombre": "Héctor Israel", 
        "entidad": "Nuevo León", 
        "distrito_circunscripcion": "Dtto. 1",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 18, 
@@ -168,7 +168,7 @@
        "nombre": "Francisco Javier", 
        "entidad": "Durango", 
        "distrito_circunscripcion": "Dtto. 1",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 19, 
@@ -177,7 +177,7 @@
        "nombre": "Sergio Enrrique", 
        "entidad": "Yucatán", 
        "distrito_circunscripcion": "Dtto. 1",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 20, 
@@ -186,7 +186,7 @@
        "nombre": "Román", 
        "entidad": "Guanajuato", 
        "distrito_circunscripcion": "Circ. 2",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 21, 
@@ -195,7 +195,7 @@
        "nombre": "Eliseo", 
        "entidad": "Chihuahua", 
        "distrito_circunscripcion": "Circ. 1",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 22, 
@@ -204,7 +204,7 @@
        "nombre": "Laura Patricia", 
        "entidad": "Chihuahua", 
        "distrito_circunscripcion": "Dtto. 6",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 23, 
@@ -213,7 +213,7 @@
        "nombre": "Wendy Maricela", 
        "entidad": "Nuevo León", 
        "distrito_circunscripcion": "Dtto. 3",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 24, 
@@ -222,7 +222,7 @@
        "nombre": "Santiago", 
        "entidad": "Ciudad de México", 
        "distrito_circunscripcion": "Circ. 4",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 25, 
@@ -231,7 +231,7 @@
        "nombre": "Erika de los Ángeles", 
        "entidad": "Querétaro", 
        "distrito_circunscripcion": "Dtto. 5",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 26, 
@@ -240,7 +240,7 @@
        "nombre": "María del Carmen", 
        "entidad": "Veracruz", 
        "distrito_circunscripcion": "Circ. 3",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 27, 
@@ -249,7 +249,7 @@
        "nombre": "Jorge Arturo", 
        "entidad": "Guanajuato", 
        "distrito_circunscripcion": "Dtto. 11",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 28, 
@@ -258,7 +258,7 @@
        "nombre": "Ana María", 
        "entidad": "Guanajuato", 
        "distrito_circunscripcion": "Dtto. 6",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 29, 
@@ -267,7 +267,7 @@
        "nombre": "Joanna Alejandra", 
        "entidad": "México", 
        "distrito_circunscripcion": "Dtto. 7",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 30, 
@@ -276,7 +276,7 @@
        "nombre": "Yesenia", 
        "entidad": "Guerrero", 
        "distrito_circunscripcion": "Circ. 4",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 31, 
@@ -285,7 +285,7 @@
        "nombre": "María Josefina", 
        "entidad": "Veracruz", 
        "distrito_circunscripcion": "Dtto. 12",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 32, 
@@ -294,7 +294,7 @@
        "nombre": "José Antonio", 
        "entidad": "México", 
        "distrito_circunscripcion": "Dtto. 18",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 33, 
@@ -303,7 +303,7 @@
        "nombre": "Anabey", 
        "entidad": "Michoacán", 
        "distrito_circunscripcion": "Circ. 5",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 34, 
@@ -312,7 +312,7 @@
        "nombre": "Pedro", 
        "entidad": "Nuevo León", 
        "distrito_circunscripcion": "Dtto. 11",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 35, 
@@ -321,7 +321,7 @@
        "nombre": "Enrique", 
        "entidad": "Michoacán", 
        "distrito_circunscripcion": "Dtto. 5",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 36, 
@@ -330,7 +330,7 @@
        "nombre": "Annia Sarahí", 
        "entidad": "Nuevo León", 
        "distrito_circunscripcion": "Dtto. 6",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 37, 
@@ -339,7 +339,7 @@
        "nombre": "Gurza Mariana", 
        "entidad": "Ciudad de México", 
        "distrito_circunscripcion": "Circ. 4",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 38, 
@@ -348,7 +348,7 @@
        "nombre": "Carmen Rocío", 
        "entidad": "Chihuahua", 
        "distrito_circunscripcion": "Dtto. 8",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 39, 
@@ -357,7 +357,7 @@
        "nombre": "Rosa María", 
        "entidad": "Tamaulipas", 
        "distrito_circunscripcion": "Dtto. 8",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 40, 
@@ -366,7 +366,7 @@
        "nombre": "Karen Michel", 
        "entidad": "Guanajuato", 
        "distrito_circunscripcion": "Dtto. 7",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 41, 
@@ -375,7 +375,7 @@
        "nombre": "Wendy", 
        "entidad": "Ciudad de México", 
        "distrito_circunscripcion": "Dtto. 3",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 42, 
@@ -384,7 +384,7 @@
        "nombre": "Javier", 
        "entidad": "México", 
        "distrito_circunscripcion": "Dtto. 40",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 43, 
@@ -393,7 +393,7 @@
        "nombre": "María de los Ángeles", 
        "entidad": "Chihuahua", 
        "distrito_circunscripcion": "Dtto. 9",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 44, 
@@ -402,7 +402,7 @@
        "nombre": "Diana Estefanía", 
        "entidad": "Guanajuato", 
        "distrito_circunscripcion": "Circ. 2",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 45, 
@@ -411,7 +411,7 @@
        "nombre": "Alma Rosa", 
        "entidad": "Veracruz", 
        "distrito_circunscripcion": "Circ. 3",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 46, 
@@ -420,7 +420,7 @@
        "nombre": "Guillermo Octavio", 
        "entidad": "Ciudad de México", 
        "distrito_circunscripcion": "Circ. 4",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 47, 
@@ -429,7 +429,7 @@
        "nombre": "Genoveva", 
        "entidad": "Puebla", 
        "distrito_circunscripcion": "Circ. 4",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 48, 
@@ -438,7 +438,7 @@
        "nombre": "Jorge Ernesto", 
        "entidad": "México", 
        "distrito_circunscripcion": "Circ. 5",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 49, 
@@ -447,7 +447,7 @@
        "nombre": "Julia Licet", 
        "entidad": "Colima", 
        "distrito_circunscripcion": "Circ. 5",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 50, 
@@ -456,7 +456,7 @@
        "nombre": "Berenice", 
        "entidad": "Michoacán", 
        "distrito_circunscripcion": "Dtto. 6",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 51, 
@@ -465,7 +465,7 @@
        "nombre": "Diana María Teresa", 
        "entidad": "Ciudad de México", 
        "distrito_circunscripcion": "Dtto. 6",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 52, 
@@ -474,7 +474,7 @@
        "nombre": "José Elías", 
        "entidad": "Yucatán", 
        "distrito_circunscripcion": "Circ. 3",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 53, 
@@ -483,7 +483,7 @@
        "nombre": "Mariela", 
        "entidad": "Tamaulipas", 
        "distrito_circunscripcion": "Circ. 2",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 54, 
@@ -492,7 +492,7 @@
        "nombre": "Ignacio", 
        "entidad": "Querétaro", 
        "distrito_circunscripcion": "Dtto. 3",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 55, 
@@ -501,7 +501,7 @@
        "nombre": "Noemí Berenice", 
        "entidad": "Zacatecas", 
        "distrito_circunscripcion": "Circ. 2",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 56, 
@@ -510,7 +510,7 @@
        "nombre": "Felipe Fernando", 
        "entidad": "Querétaro", 
        "distrito_circunscripcion": "Dtto. 4",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 57, 
@@ -519,7 +519,7 @@
        "nombre": "Gustavo", 
        "entidad": "Jalisco", 
        "distrito_circunscripcion": "Dtto. 1",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 58, 
@@ -528,7 +528,7 @@
        "nombre": "Carlos", 
        "entidad": "México", 
        "distrito_circunscripcion": "Dtto. 15",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 59, 
@@ -537,7 +537,7 @@
        "nombre": "Esther", 
        "entidad": "Guanajuato", 
        "distrito_circunscripcion": "Dtto. 14",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 60, 
@@ -546,7 +546,7 @@
        "nombre": "Paulo Gonzalo", 
        "entidad": "Aguascalientes", 
        "distrito_circunscripcion": "Dtto. 3",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 61, 
@@ -555,7 +555,7 @@
        "nombre": "Noel", 
        "entidad": "Aguascalientes", 
        "distrito_circunscripcion": "Dtto. 1",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 62, 
@@ -564,7 +564,7 @@
        "nombre": "Mario", 
        "entidad": "Chihuahua", 
        "distrito_circunscripcion": "Dtto. 5",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 63, 
@@ -573,7 +573,7 @@
        "nombre": "Lizbeth", 
        "entidad": "Baja California", 
        "distrito_circunscripcion": "Circ. 1",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 64, 
@@ -582,7 +582,7 @@
        "nombre": "Juan Carlos", 
        "entidad": "Durango", 
        "distrito_circunscripcion": "Circ. 1",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 65, 
@@ -591,7 +591,7 @@
        "nombre": "Luis Alberto", 
        "entidad": "Ciudad de México", 
        "distrito_circunscripcion": "Dtto. 15",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 66, 
@@ -600,7 +600,7 @@
        "nombre": "Miguel Ángel", 
        "entidad": "Jalisco", 
        "distrito_circunscripcion": "Circ. 1",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 67, 
@@ -609,7 +609,7 @@
        "nombre": "Berenice", 
        "entidad": "Guanajuato", 
        "distrito_circunscripcion": "Dtto. 1",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 68, 
@@ -618,7 +618,7 @@
        "nombre": "Jesús Fernando", 
        "entidad": "Sonora", 
        "distrito_circunscripcion": "Circ. 1",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 69, 
@@ -627,7 +627,7 @@
        "nombre": "Sonia", 
        "entidad": "Baja California Sur", 
        "distrito_circunscripcion": "Circ. 1",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 70, 
@@ -636,7 +636,7 @@
        "nombre": "Sarai", 
        "entidad": "Guanajuato", 
        "distrito_circunscripcion": "Dtto. 12",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 71, 
@@ -645,7 +645,7 @@
        "nombre": "Lilia Caritina", 
        "entidad": "Tlaxcala", 
        "distrito_circunscripcion": "Circ. 4",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 72, 
@@ -654,7 +654,7 @@
        "nombre": "Claudia Gabriela", 
        "entidad": "México", 
        "distrito_circunscripcion": "Dtto. 24",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 73, 
@@ -663,7 +663,7 @@
        "nombre": "Nora Elva", 
        "entidad": "Coahuila", 
        "distrito_circunscripcion": "Circ. 2",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 74, 
@@ -672,7 +672,7 @@
        "nombre": "Rommel Aghmed", 
        "entidad": "Yucatán", 
        "distrito_circunscripcion": "Dtto. 3",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 75, 
@@ -681,7 +681,7 @@
        "nombre": "Cecilia Anunciación", 
        "entidad": "Yucatán", 
        "distrito_circunscripcion": "Dtto. 4",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 76, 
@@ -690,7 +690,7 @@
        "nombre": "Víctor Manuel", 
        "entidad": "Nuevo León", 
        "distrito_circunscripcion": "Circ. 2",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 77, 
@@ -699,7 +699,7 @@
        "nombre": "María Elena", 
        "entidad": "Aguascalientes", 
        "distrito_circunscripcion": "Circ. 2",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 78, 
@@ -708,7 +708,7 @@
        "nombre": "Gabriel Ricardo", 
        "entidad": "Ciudad de México", 
        "distrito_circunscripcion": "Dtto. 23",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 79, 
@@ -717,7 +717,7 @@
        "nombre": "Carlos Humberto", 
        "entidad": "Michoacán", 
        "distrito_circunscripcion": "Dtto. 10",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 80, 
@@ -726,7 +726,7 @@
        "nombre": "Éctor", 
        "entidad": "Jaime", 
        "distrito_circunscripcion": "Dtto. 5",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 81, 
@@ -735,7 +735,7 @@
        "nombre": "César Augusto", 
        "entidad": "Tamaulipas", 
        "distrito_circunscripcion": "Circ. 2",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 82, 
@@ -744,7 +744,7 @@
        "nombre": "Rocío", 
        "entidad": "Chihuahua", 
        "distrito_circunscripcion": "Circ. 1",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 83, 
@@ -753,7 +753,7 @@
        "nombre": "Mario Gerardo", 
        "entidad": "Puebla", 
        "distrito_circunscripcion": "Dtto. 12",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 84, 
@@ -762,7 +762,7 @@
        "nombre": "Riult", 
        "entidad": "Colima", 
        "distrito_circunscripcion": "Dtto. 1",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 85, 
@@ -771,7 +771,7 @@
        "nombre": "Sonia", 
        "entidad": "Querétaro", 
        "distrito_circunscripcion": "Dtto. 1",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 86, 
@@ -780,7 +780,7 @@
        "nombre": "Iván Arturo", 
        "entidad": "México", 
        "distrito_circunscripcion": "Dtto. 22",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 87, 
@@ -789,7 +789,7 @@
        "nombre": "Jorge", 
        "entidad": "Ciudad de México", 
        "distrito_circunscripcion": "Circ. 4",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 88, 
@@ -798,7 +798,7 @@
        "nombre": "Juan Carlos", 
        "entidad": "Guanajuato", 
        "distrito_circunscripcion": "Dtto. 4",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 89, 
@@ -807,7 +807,7 @@
        "nombre": "Krishna Karina", 
        "entidad": "México", 
        "distrito_circunscripcion": "Dtto. 19",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 90, 
@@ -816,7 +816,7 @@
        "nombre": "Martha Estela", 
        "entidad": "Jalisco", 
        "distrito_circunscripcion": "Dtto. 2",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 91, 
@@ -825,7 +825,7 @@
        "nombre": "Paulina", 
        "entidad": "Jalisco", 
        "distrito_circunscripcion": "Circ. 1",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 92, 
@@ -834,7 +834,7 @@
        "nombre": "Pedro", 
        "entidad": "Nuevo León", 
        "distrito_circunscripcion": "Dtto. 4",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 93, 
@@ -843,7 +843,7 @@
        "nombre": "Ana Laura", 
        "entidad": "Jalisco", 
        "distrito_circunscripcion": "Dtto. 15",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 94, 
@@ -852,7 +852,7 @@
        "nombre": "Rodrigo", 
        "entidad": "Michoacán", 
        "distrito_circunscripcion": "Dtto. 4",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 95, 
@@ -861,7 +861,7 @@
        "nombre": "Marcia", 
        "entidad": "Querétaro", 
        "distrito_circunscripcion": "Dtto. 2",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 96, 
@@ -870,7 +870,7 @@
        "nombre": "Armando", 
        "entidad": "Michoacán", 
        "distrito_circunscripcion": "Circ. 5",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 97, 
@@ -879,7 +879,7 @@
        "nombre": "Héctor Saúl", 
        "entidad": "Ciudad de México", 
        "distrito_circunscripcion": "Dtto. 24",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 98, 
@@ -888,7 +888,7 @@
        "nombre": "Patricia", 
        "entidad": "Chihuahua", 
        "distrito_circunscripcion": "Dtto. 7",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 99, 
@@ -897,7 +897,7 @@
        "nombre": "Desiderio", 
        "entidad": "Jalisco", 
        "distrito_circunscripcion": "Dtto. 3",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 100, 
@@ -906,7 +906,7 @@
        "nombre": "Santiago", 
        "entidad": "Ciudad de México", 
        "distrito_circunscripcion": "Circ. 4",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 101, 
@@ -915,7 +915,7 @@
        "nombre": "Herminio", 
        "entidad": "Guanajuato", 
        "distrito_circunscripcion": "Dtto. 8",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 102, 
@@ -924,7 +924,7 @@
        "nombre": "Fernando", 
        "entidad": "Guanajuato", 
        "distrito_circunscripcion": "Dtto. 3",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 103, 
@@ -933,7 +933,7 @@
        "nombre": "José Salvador", 
        "entidad": "Guanajuato", 
        "distrito_circunscripcion": "Dtto. 9",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 104, 
@@ -942,7 +942,7 @@
        "nombre": "Jorge", 
        "entidad": "Ciudad de México", 
        "distrito_circunscripcion": "Dtto. 17",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 105, 
@@ -951,7 +951,7 @@
        "nombre": "Carlos Alberto", 
        "entidad": "Veracruz", 
        "distrito_circunscripcion": "Circ. 3",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 106, 
@@ -960,7 +960,7 @@
        "nombre": "Ana Laura", 
        "entidad": "Ciudad de México", 
        "distrito_circunscripcion": "Circ. 4",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 107, 
@@ -969,7 +969,7 @@
        "nombre": "Miguel Ángel", 
        "entidad": "Zacatecas", 
        "distrito_circunscripcion": "Dtto. 2",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 108, 
@@ -978,7 +978,7 @@
        "nombre": "Vicente Javier", 
        "entidad": "Tamaulipas", 
        "distrito_circunscripcion": "Dtto. 6",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 109, 
@@ -987,7 +987,7 @@
        "nombre": "Yolanda", 
        "entidad": "Nuevo León", 
        "distrito_circunscripcion": "Circ. 2",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 110, 
@@ -996,7 +996,7 @@
        "nombre": "Ricardo", 
        "entidad": "Guanajuato", 
        "distrito_circunscripcion": "Dtto. 2",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 111, 
@@ -1005,7 +1005,7 @@
        "nombre": "José Antonio", 
        "entidad": "San Luis Potosí", 
        "distrito_circunscripcion": "Dtto. 5",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 112, 
@@ -1014,7 +1014,7 @@
        "nombre": "Margarita Esther", 
        "entidad": "Ciudad de México", 
        "distrito_circunscripcion": "Dtto. 10",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        },
        {
         "número": 113, 
@@ -1023,6 +1023,6 @@
        "nombre": "Leticia", 
        "entidad": "México", 
        "distrito_circunscripcion": "Circ. 5",
-       "partido": "pan" 
+       "partido": "Partido Acción Nacional" 
        }   
 ]
